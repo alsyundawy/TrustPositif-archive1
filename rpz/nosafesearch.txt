@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751670120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754898300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jul 2025 23:02 UTC
-; Version: 2025.0704.2302.12
+; Last modified: 11 Aug 2025 07:45 UTC
+; Version: 2025.0811.0745.44
 ; Syntax: RPZ
-; Number of entries: 364
+; Number of entries: 366
 ;
 h4g3z1-nosafesearch.web.app CNAME .
 *.h4g3z1-nosafesearch.web.app CNAME .
@@ -37,8 +37,6 @@ searx.ch CNAME .
 *.searx.ch CNAME .
 search.kokomo.cloud CNAME .
 *.search.kokomo.cloud CNAME .
-searxzh.cn CNAME .
-*.searxzh.cn CNAME .
 search.0xgingi.com CNAME .
 *.search.0xgingi.com CNAME .
 alltheinternet.com CNAME .
@@ -67,6 +65,8 @@ gibiru.com CNAME .
 *.gibiru.com CNAME .
 gigablast.com CNAME .
 *.gigablast.com CNAME .
+gogoprivate.com CNAME .
+*.gogoprivate.com CNAME .
 hmsearx.h0meserver.com CNAME .
 *.hmsearx.h0meserver.com CNAME .
 lukol.com CNAME .
@@ -183,8 +183,6 @@ searx.guillaumea.fr CNAME .
 *.searx.guillaumea.fr CNAME .
 searx.rasp.fr CNAME .
 *.searx.rasp.fr CNAME .
-searx.roflcopter.fr CNAME .
-*.searx.roflcopter.fr CNAME .
 wtf.roflcopter.fr CNAME .
 *.wtf.roflcopter.fr CNAME .
 search.spaceint.fr CNAME .
@@ -311,8 +309,12 @@ mwmbl.org CNAME .
 *.mwmbl.org CNAME .
 search.opentunisia.org CNAME .
 *.search.opentunisia.org CNAME .
+privacia.org CNAME .
+*.privacia.org CNAME .
 librex.pufe.org CNAME .
 *.librex.pufe.org CNAME .
+searche.org CNAME .
+*.searche.org CNAME .
 searx.org CNAME .
 *.searx.org CNAME .
 search.stinpriza.org CNAME .

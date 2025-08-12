@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753329960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754971740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs - Aggressive
@@ -13,10 +13,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Jul 2025 04:06 UTC
-; Version: 2025.0724.0406.40
+; Last modified: 12 Aug 2025 04:09 UTC
+; Version: 2025.0812.0409.16
 ; Syntax: RPZ
-; Number of latin TLDs: 271
+; Number of latin TLDs: 275
 ;
 *.actor CNAME .
 *.africa CNAME .
@@ -139,6 +139,7 @@ $TTL 300
 *.healthcare CNAME .
 *.help CNAME .
 *.homes CNAME .
+*.how CNAME .
 *.icu CNAME .
 *.ink CNAME .
 *.international CNAME .
@@ -176,6 +177,7 @@ $TTL 300
 *.monster CNAME .
 *.motorcycles CNAME .
 *.mov CNAME .
+*.my CNAME .
 *.name CNAME .
 *.navy CNAME .
 *.new CNAME .
@@ -206,6 +208,7 @@ $TTL 300
 *.prof CNAME .
 *.promo CNAME .
 *.pub CNAME .
+*.pw CNAME .
 *.qpon CNAME .
 *.quest CNAME .
 *.realtor CNAME .
@@ -247,6 +250,7 @@ $TTL 300
 *.su CNAME .
 *.support CNAME .
 *.surf CNAME .
+*.sx CNAME .
 *.sydney CNAME .
 *.tattoo CNAME .
 *.tax CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752880140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754694540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -8,13 +8,15 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Jul 2025 23:09 UTC
-; Version: 2025.0718.2309.05
+; Last modified: 08 Aug 2025 23:09 UTC
+; Version: 2025.0808.2309.27
 ; Syntax: RPZ
-; Number of entries: 822
+; Number of entries: 854
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
+collector.azure.microsoft.cloud CNAME .
+*.collector.azure.microsoft.cloud CNAME .
 dc.applicationinsights.azure.cn CNAME .
 *.dc.applicationinsights.azure.cn CNAME .
 in.applicationinsights.azure.cn CNAME .
@@ -555,6 +557,8 @@ insights.cloud.microsoft CNAME .
 *.insights.cloud.microsoft CNAME .
 in.appcenter.ms CNAME .
 *.in.appcenter.ms CNAME .
+ingest.appcenter.ms CNAME .
+*.ingest.appcenter.ms CNAME .
 c-bingapis-com.dual-a-0034.a-msedge.net CNAME .
 *.c-bingapis-com.dual-a-0034.a-msedge.net CNAME .
 measure.office.com.akamaized.net CNAME .
@@ -631,10 +635,24 @@ win10-trt.msedge.net CNAME .
 *.win10-trt.msedge.net CNAME .
 measure.office.net CNAME .
 *.measure.office.net CNAME .
+acs-events.trafficmanager.net CNAME .
+*.acs-events.trafficmanager.net CNAME .
+ads.trafficmanager.net CNAME .
+*.ads.trafficmanager.net CNAME .
+ads-act.trafficmanager.net CNAME .
+*.ads-act.trafficmanager.net CNAME .
+ads-act-test.trafficmanager.net CNAME .
+*.ads-act-test.trafficmanager.net CNAME .
 ads-msn-com-profile.trafficmanager.net CNAME .
 *.ads-msn-com-profile.trafficmanager.net CNAME .
+adsdemandcatalog.trafficmanager.net CNAME .
+*.adsdemandcatalog.trafficmanager.net CNAME .
+adsdemandcatalogapi.trafficmanager.net CNAME .
+*.adsdemandcatalogapi.trafficmanager.net CNAME .
 adsdk.trafficmanager.net CNAME .
 *.adsdk.trafficmanager.net CNAME .
+adsl.trafficmanager.net CNAME .
+*.adsl.trafficmanager.net CNAME .
 agps-location-livenet.trafficmanager.net CNAME .
 *.agps-location-livenet.trafficmanager.net CNAME .
 analytics.trafficmanager.net CNAME .
@@ -643,6 +661,12 @@ analytics-listener.trafficmanager.net CNAME .
 *.analytics-listener.trafficmanager.net CNAME .
 atm-settingsfe-prod-geo2.trafficmanager.net CNAME .
 *.atm-settingsfe-prod-geo2.trafficmanager.net CNAME .
+avdab-p-corniche-events-relay.trafficmanager.net CNAME .
+*.avdab-p-corniche-events-relay.trafficmanager.net CNAME .
+avdab-s-corniche-events-relay.trafficmanager.net CNAME .
+*.avdab-s-corniche-events-relay.trafficmanager.net CNAME .
+avdab-t-corniche-events-relay.trafficmanager.net CNAME .
+*.avdab-t-corniche-events-relay.trafficmanager.net CNAME .
 beacons.trafficmanager.net CNAME .
 *.beacons.trafficmanager.net CNAME .
 bf-analytics-tracker-tm.trafficmanager.net CNAME .
@@ -667,8 +691,12 @@ adstore.response.gcp.eastus.trafficmanager.net CNAME .
 *.adstore.response.gcp.eastus.trafficmanager.net CNAME .
 telemetry.eastus.trafficmanager.net CNAME .
 *.telemetry.eastus.trafficmanager.net CNAME .
+eudfmeventsapiprod.trafficmanager.net CNAME .
+*.eudfmeventsapiprod.trafficmanager.net CNAME .
 eventservice.trafficmanager.net CNAME .
 *.eventservice.trafficmanager.net CNAME .
+fraudeventsvc-ppe.trafficmanager.net CNAME .
+*.fraudeventsvc-ppe.trafficmanager.net CNAME .
 fsad.trafficmanager.net CNAME .
 *.fsad.trafficmanager.net CNAME .
 ghochv3eng.trafficmanager.net CNAME .
@@ -693,6 +721,8 @@ office-events-data.trafficmanager.net CNAME .
 *.office-events-data.trafficmanager.net CNAME .
 oms-analytics.trafficmanager.net CNAME .
 *.oms-analytics.trafficmanager.net CNAME .
+partnerfraudevents.trafficmanager.net CNAME .
+*.partnerfraudevents.trafficmanager.net CNAME .
 pixel-sync.trafficmanager.net CNAME .
 *.pixel-sync.trafficmanager.net CNAME .
 rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net CNAME .
@@ -721,6 +751,8 @@ tm-analytics-pr.trafficmanager.net CNAME .
 *.tm-analytics-pr.trafficmanager.net CNAME .
 tm-enrollment-telemetry-datacore.trafficmanager.net CNAME .
 *.tm-enrollment-telemetry-datacore.trafficmanager.net CNAME .
+traf-fraudevents-int.trafficmanager.net CNAME .
+*.traf-fraudevents-int.trafficmanager.net CNAME .
 us-mesh-events-data-leafs.trafficmanager.net CNAME .
 *.us-mesh-events-data-leafs.trafficmanager.net CNAME .
 vstelemetry.trafficmanager.net CNAME .

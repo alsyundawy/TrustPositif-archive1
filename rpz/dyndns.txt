@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752783180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754770800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Jul 2025 20:13 UTC
-; Version: 2025.0717.2013.22
+; Last modified: 09 Aug 2025 20:20 UTC
+; Version: 2025.0809.2020.39
 ; Syntax: RPZ
-; Number of entries: 2958
+; Number of entries: 2944
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -435,8 +435,6 @@ ddnsguru.com CNAME .
 *.ddnsguru.com CNAME .
 ddnsking.com CNAME .
 *.ddnsking.com CNAME .
-ddnslive.com CNAME .
-*.ddnslive.com CNAME .
 deaftone.com CNAME .
 *.deaftone.com CNAME .
 demosoftonline.com CNAME .
@@ -581,6 +579,8 @@ echoparklake.com CNAME .
 *.echoparklake.com CNAME .
 effers.com CNAME .
 *.effers.com CNAME .
+eiresol.com CNAME .
+*.eiresol.com CNAME .
 elchemi.com CNAME .
 *.elchemi.com CNAME .
 empresastaylor.com CNAME .
@@ -1403,6 +1403,8 @@ toshibanetcam.com CNAME .
 *.toshibanetcam.com CNAME .
 toythieves.com CNAME .
 *.toythieves.com CNAME .
+trieditmyself.com CNAME .
+*.trieditmyself.com CNAME .
 truthvid.com CNAME .
 *.truthvid.com CNAME .
 tvlinux.com CNAME .
@@ -1513,8 +1515,6 @@ dnshome.de CNAME .
 *.dnshome.de CNAME .
 dray-dns.de CNAME .
 *.dray-dns.de CNAME .
-draydns.de CNAME .
-*.draydns.de CNAME .
 dyn-access.de CNAME .
 *.dyn-access.de CNAME .
 dyn-ip24.de CNAME .
@@ -1529,8 +1529,6 @@ dyndnssec.de CNAME .
 *.dyndnssec.de CNAME .
 dynipv6.de CNAME .
 *.dynipv6.de CNAME .
-dynvpn.de CNAME .
-*.dynvpn.de CNAME .
 eth64.de CNAME .
 *.eth64.de CNAME .
 fuettertdasnetz.de CNAME .
@@ -1555,12 +1553,6 @@ lebtimnetz.de CNAME .
 *.lebtimnetz.de CNAME .
 leitungsen.de CNAME .
 *.leitungsen.de CNAME .
-mein-vigor.de CNAME .
-*.mein-vigor.de CNAME .
-my-vigor.de CNAME .
-*.my-vigor.de CNAME .
-my-wan.de CNAME .
-*.my-wan.de CNAME .
 myhome-server.de CNAME .
 *.myhome-server.de CNAME .
 nas64.de CNAME .
@@ -1579,12 +1571,6 @@ srv64.de CNAME .
 *.srv64.de CNAME .
 srvdns.de CNAME .
 *.srvdns.de CNAME .
-syno-ds.de CNAME .
-*.syno-ds.de CNAME .
-synology-diskstation.de CNAME .
-*.synology-diskstation.de CNAME .
-synology-ds.de CNAME .
-*.synology-ds.de CNAME .
 tcp64.de CNAME .
 *.tcp64.de CNAME .
 traeumtgerade.de CNAME .
@@ -1619,8 +1605,6 @@ colegiotorrevilano.es CNAME .
 *.colegiotorrevilano.es CNAME .
 ddnss.eu CNAME .
 *.ddnss.eu CNAME .
-diskstation.eu CNAME .
-*.diskstation.eu CNAME .
 duia.eu CNAME .
 *.duia.eu CNAME .
 humorvisite.eu CNAME .
@@ -1683,8 +1667,6 @@ now.im CNAME .
 *.now.im CNAME .
 cloudns.in CNAME .
 *.cloudns.in CNAME .
-evils.in CNAME .
-*.evils.in CNAME .
 aintno.info CNAME .
 *.aintno.info CNAME .
 barrel-of-knowledge.info CNAME .
@@ -2325,6 +2307,8 @@ auraria.org CNAME .
 *.auraria.org CNAME .
 authorizeddns.org CNAME .
 *.authorizeddns.org CNAME .
+awiki.org CNAME .
+*.awiki.org CNAME .
 bagus.org CNAME .
 *.bagus.org CNAME .
 barbaforte.org CNAME .
@@ -2375,8 +2359,8 @@ dhis.org CNAME .
 *.dhis.org CNAME .
 dhs.org CNAME .
 *.dhs.org CNAME .
-diskstation.org CNAME .
-*.diskstation.org CNAME .
+diyplans.org CNAME .
+*.diyplans.org CNAME .
 dnsalias.org CNAME .
 *.dnsalias.org CNAME .
 dnsdojo.org CNAME .
@@ -2441,6 +2425,8 @@ f3322.org CNAME .
 *.f3322.org CNAME .
 fairuse.org CNAME .
 *.fairuse.org CNAME .
+fatdiary.org CNAME .
+*.fatdiary.org CNAME .
 flnet.org CNAME .
 *.flnet.org CNAME .
 freeddns.org CNAME .
@@ -2587,8 +2573,6 @@ podzone.org CNAME .
 *.podzone.org CNAME .
 port0.org CNAME .
 *.port0.org CNAME .
-portalindustries.org CNAME .
-*.portalindustries.org CNAME .
 privatedns.org CNAME .
 *.privatedns.org CNAME .
 psybnc.org CNAME .
@@ -2617,6 +2601,8 @@ sheatfish.org CNAME .
 *.sheatfish.org CNAME .
 sheepindonesia.org CNAME .
 *.sheepindonesia.org CNAME .
+solfa.org CNAME .
+*.solfa.org CNAME .
 spdns.org CNAME .
 *.spdns.org CNAME .
 ssl443.org CNAME .
@@ -2629,6 +2615,8 @@ sumibi.org CNAME .
 *.sumibi.org CNAME .
 tantrum.org CNAME .
 *.tantrum.org CNAME .
+theblacklist.org CNAME .
+*.theblacklist.org CNAME .
 themcmillans.org CNAME .
 *.themcmillans.org CNAME .
 thenest.org CNAME .
@@ -2641,8 +2629,6 @@ tscng.org CNAME .
 *.tscng.org CNAME .
 ufcfan.org CNAME .
 *.ufcfan.org CNAME .
-vicinanza.org CNAME .
-*.vicinanza.org CNAME .
 webhop.org CNAME .
 *.webhop.org CNAME .
 webredirect.org CNAME .
@@ -2779,8 +2765,6 @@ voles35.ru CNAME .
 *.voles35.ru CNAME .
 z86.ru CNAME .
 *.z86.ru CNAME .
-divx.se CNAME .
-*.divx.se CNAME .
 spelar.se CNAME .
 *.spelar.se CNAME .
 ftp.sh CNAME .
@@ -2967,6 +2951,8 @@ dyndns.ws CNAME .
 *.dyndns.ws CNAME .
 mypets.ws CNAME .
 *.mypets.ws CNAME .
+blogsite.xyz CNAME .
+*.blogsite.xyz CNAME .
 crafting.xyz CNAME .
 *.crafting.xyz CNAME .
 project.zone CNAME .
