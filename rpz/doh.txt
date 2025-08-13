@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755029700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755072480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Aug 2025 20:15 UTC
-; Version: 2025.0812.2015.33
+; Last modified: 13 Aug 2025 08:08 UTC
+; Version: 2025.0813.0808.20
 ; Syntax: RPZ
-; Number of entries: 2886
+; Number of entries: 2880
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -456,8 +456,6 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 doh.flashstart.com CNAME .
@@ -1752,8 +1750,6 @@ doh.ffmuc.net CNAME .
 *.doh.ffmuc.net CNAME .
 dot.ffmuc.net CNAME .
 *.dot.ffmuc.net CNAME .
-dns.flightspace.net CNAME .
-*.dns.flightspace.net CNAME .
 dns01.flm9.net CNAME .
 *.dns01.flm9.net CNAME .
 ns1.flodns.net CNAME .
@@ -2598,8 +2594,6 @@ dns.sy.st CNAME .
 *.dns.sy.st CNAME .
 home-server.store CNAME .
 *.home-server.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 crypto.sx CNAME .
