@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755072480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755245940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Aug 2025 08:08 UTC
-; Version: 2025.0813.0808.20
+; Last modified: 15 Aug 2025 08:19 UTC
+; Version: 2025.0815.0819.05
 ; Syntax: RPZ
 ; Number of entries: 2880
 ;
@@ -304,8 +304,6 @@ dns.bebasid.com CNAME .
 *.dns.bebasid.com CNAME .
 internetsehat.bebasid.com CNAME .
 *.internetsehat.bebasid.com CNAME .
-bestwon203.com CNAME .
-*.bestwon203.com CNAME .
 2.dnscrypt-cert.blahdns.com CNAME .
 *.2.dnscrypt-cert.blahdns.com CNAME .
 doh.blahdns.com CNAME .
@@ -572,6 +570,8 @@ msr177.com CNAME .
 *.msr177.com CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 dns.nguyendn.com CNAME .
 *.dns.nguyendn.com CNAME .
 dns.nhtsky.com CNAME .
@@ -796,8 +796,6 @@ wantaquddin.com CNAME .
 *.wantaquddin.com CNAME .
 dns.wechat.com CNAME .
 *.dns.wechat.com CNAME .
-ns2.wuyouss.com CNAME .
-*.ns2.wuyouss.com CNAME .
 ns3.wuyouss.com CNAME .
 *.ns3.wuyouss.com CNAME .
 doh.xfinity.com CNAME .
@@ -1542,8 +1540,6 @@ hitian.me CNAME .
 *.hitian.me CNAME .
 dns.huas.me CNAME .
 *.dns.huas.me CNAME .
-dns.indust.me CNAME .
-*.dns.indust.me CNAME .
 jkdns.me CNAME .
 *.jkdns.me CNAME .
 dns.karadag.me CNAME .
@@ -1950,6 +1946,8 @@ clientdns3.softcom.net CNAME .
 *.clientdns3.softcom.net CNAME .
 dns.stevenz.net CNAME .
 *.dns.stevenz.net CNAME .
+doh.sunoaki.net CNAME .
+*.doh.sunoaki.net CNAME .
 dns.thegoodsource.net CNAME .
 *.dns.thegoodsource.net CNAME .
 timedns.net CNAME .
@@ -2850,6 +2848,8 @@ maqgie.xyz CNAME .
 *.maqgie.xyz CNAME .
 dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 *.dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
+mikezhang.xyz CNAME .
+*.mikezhang.xyz CNAME .
 a.passcloud.xyz CNAME .
 *.a.passcloud.xyz CNAME .
 i.passcloud.xyz CNAME .
