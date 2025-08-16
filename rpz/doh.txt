@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755317640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755346800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Aug 2025 04:14 UTC
-; Version: 2025.0816.0414.36
+; Last modified: 16 Aug 2025 12:20 UTC
+; Version: 2025.0816.1220.45
 ; Syntax: RPZ
-; Number of entries: 2878
+; Number of entries: 2872
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -820,8 +820,6 @@ mabuktogel.creditcard CNAME .
 *.mabuktogel.creditcard CNAME .
 polisitogel.cruises CNAME .
 *.polisitogel.cruises CNAME .
-ns3.cx CNAME .
-*.ns3.cx CNAME .
 adguard.dantynes.cyou CNAME .
 *.adguard.dantynes.cyou CNAME .
 dns.kukal.cz CNAME .
@@ -1090,8 +1088,6 @@ xray.krnl.eu CNAME .
 *.xray.krnl.eu CNAME .
 adguard.leadseason.eu CNAME .
 *.adguard.leadseason.eu CNAME .
-n0.eu CNAME .
-*.n0.eu CNAME .
 au.rslvr.eu CNAME .
 *.au.rslvr.eu CNAME .
 bg.rslvr.eu CNAME .
@@ -1448,8 +1444,6 @@ dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
 *.eth.link CNAME .
-ns3.link CNAME .
-*.ns3.link CNAME .
 lifeisa.live CNAME .
 *.lifeisa.live CNAME .
 solaxy.live CNAME .
