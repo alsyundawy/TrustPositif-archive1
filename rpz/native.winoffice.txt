@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754694540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755506520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Aug 2025 23:09 UTC
-; Version: 2025.0808.2309.27
+; Last modified: 18 Aug 2025 08:42 UTC
+; Version: 2025.0818.0842.26
 ; Syntax: RPZ
-; Number of entries: 854
+; Number of entries: 838
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
@@ -291,14 +291,6 @@ events.data.microsoft.com CNAME .
 *.events.data.microsoft.com CNAME .
 events-sandbox.data.microsoft.com CNAME .
 *.events-sandbox.data.microsoft.com CNAME .
-settings.data.microsoft.com CNAME .
-*.settings.data.microsoft.com CNAME .
-settings-sandbox.data.microsoft.com CNAME .
-*.settings-sandbox.data.microsoft.com CNAME .
-settings-win.data.microsoft.com CNAME .
-*.settings-win.data.microsoft.com CNAME .
-settings-win-ppe.data.microsoft.com CNAME .
-*.settings-win-ppe.data.microsoft.com CNAME .
 vortex.data.microsoft.com CNAME .
 *.vortex.data.microsoft.com CNAME .
 vortex-sandbox.data.microsoft.com CNAME .
@@ -659,8 +651,6 @@ analytics.trafficmanager.net CNAME .
 *.analytics.trafficmanager.net CNAME .
 analytics-listener.trafficmanager.net CNAME .
 *.analytics-listener.trafficmanager.net CNAME .
-atm-settingsfe-prod-geo2.trafficmanager.net CNAME .
-*.atm-settingsfe-prod-geo2.trafficmanager.net CNAME .
 avdab-p-corniche-events-relay.trafficmanager.net CNAME .
 *.avdab-p-corniche-events-relay.trafficmanager.net CNAME .
 avdab-s-corniche-events-relay.trafficmanager.net CNAME .
@@ -731,12 +721,6 @@ sconsentit9.trafficmanager.net CNAME .
 *.sconsentit9.trafficmanager.net CNAME .
 self-events-data.trafficmanager.net CNAME .
 *.self-events-data.trafficmanager.net CNAME .
-settingsfd-geo.trafficmanager.net CNAME .
-*.settingsfd-geo.trafficmanager.net CNAME .
-settingsfd-ppe.trafficmanager.net CNAME .
-*.settingsfd-ppe.trafficmanager.net CNAME .
-settingsfd-sandbox.trafficmanager.net CNAME .
-*.settingsfd-sandbox.trafficmanager.net CNAME .
 ssp-prod-eastus-nonmutt.trafficmanager.net CNAME .
 *.ssp-prod-eastus-nonmutt.trafficmanager.net CNAME .
 stats-partner.trafficmanager.net CNAME .
