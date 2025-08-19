@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755591000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755605640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Aug 2025 08:10 UTC
-; Version: 2025.0819.0810.10
+; Last modified: 19 Aug 2025 12:14 UTC
+; Version: 2025.0819.1214.43
 ; Syntax: RPZ
 ; Number of entries: 2868
 ;
@@ -454,6 +454,8 @@ resolver2.dyndnsinternetguide.com CNAME .
 *.resolver2.dyndnsinternetguide.com CNAME .
 easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 doh.flashstart.com CNAME .
@@ -2072,6 +2074,8 @@ dns8.org CNAME .
 *.dns8.org CNAME .
 dnsbunker.org CNAME .
 *.dnsbunker.org CNAME .
+ns1.dotls.org CNAME .
+*.ns1.dotls.org CNAME .
 home27.duckdns.org CNAME .
 *.home27.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
@@ -2256,8 +2260,6 @@ dns.dynx.pro CNAME .
 *.dns.dynx.pro CNAME .
 ntwrkh.pro CNAME .
 *.ntwrkh.pro CNAME .
-dns.swin.pro CNAME .
-*.dns.swin.pro CNAME .
 doh.xcom.pro CNAME .
 *.doh.xcom.pro CNAME .
 mabuktogel.properties CNAME .
@@ -2582,8 +2584,6 @@ dns.sy.st CNAME .
 *.dns.sy.st CNAME .
 home-server.store CNAME .
 *.home-server.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 crypto.sx CNAME .
