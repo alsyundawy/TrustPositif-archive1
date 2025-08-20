@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755605640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755648900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Aug 2025 12:14 UTC
-; Version: 2025.0819.1214.43
+; Last modified: 20 Aug 2025 00:15 UTC
+; Version: 2025.0820.0015.09
 ; Syntax: RPZ
-; Number of entries: 2868
+; Number of entries: 2864
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -454,8 +454,6 @@ resolver2.dyndnsinternetguide.com CNAME .
 *.resolver2.dyndnsinternetguide.com CNAME .
 easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 doh.flashstart.com CNAME .
@@ -1316,8 +1314,6 @@ dns.api.staging.globuscs.info CNAME .
 *.dns.api.staging.globuscs.info CNAME .
 dns.api.test.globuscs.info CNAME .
 *.dns.api.test.globuscs.info CNAME .
-doh.kekew.info CNAME .
-*.doh.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 testaghome.meshkov.info CNAME .
