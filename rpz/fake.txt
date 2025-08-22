@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755859320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755873780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Aug 2025 10:42 UTC
-; Version: 2025.0822.1042.53
+; Last modified: 22 Aug 2025 14:43 UTC
+; Version: 2025.0822.1443.43
 ; Syntax: RPZ
-; Number of entries: 28408
+; Number of entries: 28412
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -8263,6 +8263,8 @@ hoeglshoes.com CNAME .
 *.hoeglshoes.com CNAME .
 hofer-wien.com CNAME .
 *.hofer-wien.com CNAME .
+hoferwien.com CNAME .
+*.hoferwien.com CNAME .
 hoff-de.com CNAME .
 *.hoff-de.com CNAME .
 hofinger-modehaus.com CNAME .
@@ -27259,6 +27261,8 @@ semode.shop CNAME .
 *.semode.shop CNAME .
 seriouswatches.shop CNAME .
 *.seriouswatches.shop CNAME .
+seylab.shop CNAME .
+*.seylab.shop CNAME .
 sezane-authorized.shop CNAME .
 *.sezane-authorized.shop CNAME .
 shavenation.shop CNAME .

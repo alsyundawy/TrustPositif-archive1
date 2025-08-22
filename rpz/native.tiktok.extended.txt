@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754089800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755868620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 23:10 UTC
-; Version: 2025.0801.2310.26
+; Last modified: 22 Aug 2025 13:17 UTC
+; Version: 2025.0822.1317.05
 ; Syntax: RPZ
-; Number of entries: 846
+; Number of entries: 824
 ;
 h4g3z1-native.tiktok.extended.web.app CNAME .
 *.h4g3z1-native.tiktok.extended.web.app CNAME .
@@ -509,16 +509,6 @@ mssdk-va-useast2a.tiktokv.com CNAME .
 *.mssdk-va-useast2a.tiktokv.com CNAME .
 mssdk16-normal.tiktokv.com CNAME .
 *.mssdk16-normal.tiktokv.com CNAME .
-mssdk16-normal-alisg.tiktokv.com CNAME .
-*.mssdk16-normal-alisg.tiktokv.com CNAME .
-mssdk16-normal-useast1a.tiktokv.com CNAME .
-*.mssdk16-normal-useast1a.tiktokv.com CNAME .
-mssdk16-normal-useast2a.tiktokv.com CNAME .
-*.mssdk16-normal-useast2a.tiktokv.com CNAME .
-mssdk16-normal-zr-alisg.tiktokv.com CNAME .
-*.mssdk16-normal-zr-alisg.tiktokv.com CNAME .
-mssdk16-normal-zr-useast1a.tiktokv.com CNAME .
-*.mssdk16-normal-zr-useast1a.tiktokv.com CNAME .
 mssdk19-normal.tiktokv.com CNAME .
 *.mssdk19-normal.tiktokv.com CNAME .
 mssdk19-normal-alisg.tiktokv.com CNAME .
@@ -685,8 +675,6 @@ mon16-platform-useast5.us.tiktokv.com CNAME .
 *.mon16-platform-useast5.us.tiktokv.com CNAME .
 mssdk.us.tiktokv.com CNAME .
 *.mssdk.us.tiktokv.com CNAME .
-mssdk16-normal-useast8.us.tiktokv.com CNAME .
-*.mssdk16-normal-useast8.us.tiktokv.com CNAME .
 mssdk16-platform-useast5.us.tiktokv.com CNAME .
 *.mssdk16-platform-useast5.us.tiktokv.com CNAME .
 rtc-logger.us.tiktokv.com CNAME .
@@ -755,12 +743,6 @@ mon16-normal-no1a.tiktokv.eu CNAME .
 *.mon16-normal-no1a.tiktokv.eu CNAME .
 mon16-normal-useastred.tiktokv.eu CNAME .
 *.mon16-normal-useastred.tiktokv.eu CNAME .
-mssdk16-normal-ie.tiktokv.eu CNAME .
-*.mssdk16-normal-ie.tiktokv.eu CNAME .
-mssdk16-normal-no1a.tiktokv.eu CNAME .
-*.mssdk16-normal-no1a.tiktokv.eu CNAME .
-mssdk16-normal-useastred.tiktokv.eu CNAME .
-*.mssdk16-normal-useastred.tiktokv.eu CNAME .
 rtc-logger-ie.tiktokv.eu CNAME .
 *.rtc-logger-ie.tiktokv.eu CNAME .
 rtc-logger16-normal-useastred.tiktokv.eu CNAME .
@@ -837,10 +819,6 @@ mon16-normal-useast5.tiktokv.us CNAME .
 *.mon16-normal-useast5.tiktokv.us CNAME .
 mon16-normal-useast8.tiktokv.us CNAME .
 *.mon16-normal-useast8.tiktokv.us CNAME .
-mssdk16-normal-useast5.tiktokv.us CNAME .
-*.mssdk16-normal-useast5.tiktokv.us CNAME .
-mssdk16-normal-useast8.tiktokv.us CNAME .
-*.mssdk16-normal-useast8.tiktokv.us CNAME .
 rtc-logger.tiktokv.us CNAME .
 *.rtc-logger.tiktokv.us CNAME .
 rtc-logger-ttp2.tiktokv.us CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755866100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1755880860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Aug 2025 12:35 UTC
-; Version: 2025.0822.1235.37
+; Last modified: 22 Aug 2025 16:41 UTC
+; Version: 2025.0822.1641.50
 ; Syntax: RPZ
-; Number of entries: 2864
+; Number of entries: 2876
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -104,6 +104,12 @@ mabuktogel.cards CNAME .
 *.mabuktogel.cards CNAME .
 sriedmueadguard.casa CNAME .
 *.sriedmueadguard.casa CNAME .
+chuncheon.dnsovertor.cc CNAME .
+*.chuncheon.dnsovertor.cc CNAME .
+japan.dnsovertor.cc CNAME .
+*.japan.dnsovertor.cc CNAME .
+seoul.dnsovertor.cc CNAME .
+*.seoul.dnsovertor.cc CNAME .
 dns.flymc.cc CNAME .
 *.dns.flymc.cc CNAME .
 dns.interhub.cc CNAME .
@@ -198,6 +204,8 @@ dns.qrtz.club CNAME .
 *.dns.qrtz.club CNAME .
 dns.soldier.terumi.club CNAME .
 *.dns.soldier.terumi.club CNAME .
+doh.18bit.cn CNAME .
+*.doh.18bit.cn CNAME .
 doh.360.cn CNAME .
 *.doh.360.cn CNAME .
 dot.360.cn CNAME .
@@ -264,6 +272,8 @@ blitz.ahadns.com CNAME .
 *.blitz.ahadns.com CNAME .
 blitz-setup.ahadns.com CNAME .
 *.blitz-setup.ahadns.com CNAME .
+dns.akbxr.com CNAME .
+*.dns.akbxr.com CNAME .
 alidns.com CNAME .
 *.alidns.com CNAME .
 httpdns-sc.aliyuncs.com CNAME .
@@ -764,6 +774,8 @@ dns.surobe.com CNAME .
 *.dns.surobe.com CNAME .
 dns.syaifullah.com CNAME .
 *.dns.syaifullah.com CNAME .
+doh.sz-dns.com CNAME .
+*.doh.sz-dns.com CNAME .
 dns.technologycage.com CNAME .
 *.dns.technologycage.com CNAME .
 dns.technostriker.com CNAME .
@@ -1016,8 +1028,6 @@ renardbleu.dev CNAME .
 *.renardbleu.dev CNAME .
 resolver.rferee.dev CNAME .
 *.resolver.rferee.dev CNAME .
-shalenkov.dev CNAME .
-*.shalenkov.dev CNAME .
 dns.suhaila.dev CNAME .
 *.dns.suhaila.dev CNAME .
 dns.svoi.dev CNAME .
@@ -1184,6 +1194,8 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
+cynntex.fun CNAME .
+*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 jcdns.fun CNAME .
@@ -1456,6 +1468,8 @@ polisitogel.living CNAME .
 *.polisitogel.living CNAME .
 d.bod.lol CNAME .
 *.d.bod.lol CNAME .
+dns.green-ping.lol CNAME .
+*.dns.green-ping.lol CNAME .
 johneldenring.lol CNAME .
 *.johneldenring.lol CNAME .
 lewsha.lol CNAME .
@@ -2676,8 +2690,6 @@ sundalandia.pp.ua CNAME .
 *.sundalandia.pp.ua CNAME .
 virga.pp.ua CNAME .
 *.virga.pp.ua CNAME .
-zxcvb.pp.ua CNAME .
-*.zxcvb.pp.ua CNAME .
 adguard.aa4.co.uk CNAME .
 *.adguard.aa4.co.uk CNAME .
 www.dnsadguard.co.uk CNAME .
