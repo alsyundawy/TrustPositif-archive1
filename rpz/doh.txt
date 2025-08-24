@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1755966060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756067460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Aug 2025 16:21 UTC
-; Version: 2025.0823.1621.59
+; Last modified: 24 Aug 2025 20:31 UTC
+; Version: 2025.0824.2031.03
 ; Syntax: RPZ
-; Number of entries: 2874
+; Number of entries: 2876
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -464,6 +464,8 @@ resolver2.dyndnsinternetguide.com CNAME .
 *.resolver2.dyndnsinternetguide.com CNAME .
 easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 doh.flashstart.com CNAME .
@@ -2590,6 +2592,8 @@ dns.sy.st CNAME .
 *.dns.sy.st CNAME .
 home-server.store CNAME .
 *.home-server.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 crypto.sx CNAME .
@@ -2638,8 +2642,6 @@ glacius.top CNAME .
 *.glacius.top CNAME .
 imperio.top CNAME .
 *.imperio.top CNAME .
-adguard.johanliebert.top CNAME .
-*.adguard.johanliebert.top CNAME .
 blog.kimiblock.top CNAME .
 *.blog.kimiblock.top CNAME .
 lesuo.top CNAME .
