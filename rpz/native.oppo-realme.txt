@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753293300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756201860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's OPPO & Realme Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Jul 2025 17:55 UTC
-; Version: 2025.0723.1755.25
+; Last modified: 26 Aug 2025 09:51 UTC
+; Version: 2025.0826.0951.32
 ; Syntax: RPZ
-; Number of entries: 718
+; Number of entries: 710
 ;
 h4g3z1-native.oppo-realme.web.app CNAME .
 *.h4g3z1-native.oppo-realme.web.app CNAME .
@@ -127,14 +127,6 @@ icota-service-eu.allawnos.com CNAME .
 *.icota-service-eu.allawnos.com CNAME .
 icota-service-in.allawnos.com CNAME .
 *.icota-service-in.allawnos.com CNAME .
-lang-server-eu.allawnos.com CNAME .
-*.lang-server-eu.allawnos.com CNAME .
-lang-server-in.allawnos.com CNAME .
-*.lang-server-in.allawnos.com CNAME .
-lang-server-sg.allawnos.com CNAME .
-*.lang-server-sg.allawnos.com CNAME .
-lang-server-us.allawnos.com CNAME .
-*.lang-server-us.allawnos.com CNAME .
 lockcard-service-in.allawnos.com CNAME .
 *.lockcard-service-in.allawnos.com CNAME .
 moa-upload-in.allawnos.com CNAME .

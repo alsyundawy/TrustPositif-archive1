@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756195980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756210500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Aug 2025 08:13 UTC
-; Version: 2025.0826.0813.26
+; Last modified: 26 Aug 2025 12:15 UTC
+; Version: 2025.0826.1215.25
 ; Syntax: RPZ
-; Number of entries: 2876
+; Number of entries: 2866
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -238,8 +238,6 @@ dns.zzuhacker.cn CNAME .
 *.dns.zzuhacker.cn CNAME .
 mailkyb.co CNAME .
 *.mailkyb.co CNAME .
-adguard.mrmartian.co CNAME .
-*.adguard.mrmartian.co CNAME .
 dns.tipsy.coffee CNAME .
 *.dns.tipsy.coffee CNAME .
 dns.13evl.com CNAME .
@@ -466,8 +464,6 @@ resolver2.dyndnsinternetguide.com CNAME .
 *.resolver2.dyndnsinternetguide.com CNAME .
 easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 doh.flashstart.com CNAME .
@@ -584,8 +580,6 @@ msr177.com CNAME .
 *.msr177.com CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 dns.nguyendn.com CNAME .
 *.dns.nguyendn.com CNAME .
 dns.nhtsky.com CNAME .
@@ -2594,8 +2588,6 @@ dns.sy.st CNAME .
 *.dns.sy.st CNAME .
 home-server.store CNAME .
 *.home-server.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 crypto.sx CNAME .
@@ -2730,8 +2722,6 @@ dns.horcrux.vip CNAME .
 *.dns.horcrux.vip CNAME .
 dns.mtoo.vip CNAME .
 *.dns.mtoo.vip CNAME .
-squidmall.vip CNAME .
-*.squidmall.vip CNAME .
 tienpham.id.vn CNAME .
 *.tienpham.id.vn CNAME .
 www.chungocoai.name.vn CNAME .
