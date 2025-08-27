@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756238160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756281180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Aug 2025 19:56 UTC
-; Version: 2025.0826.1956.20
+; Last modified: 27 Aug 2025 07:53 UTC
+; Version: 2025.0827.0753.32
 ; Syntax: RPZ
-; Number of entries: 2870
+; Number of entries: 2872
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -464,6 +464,8 @@ resolver2.dyndnsinternetguide.com CNAME .
 *.resolver2.dyndnsinternetguide.com CNAME .
 easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 doh.flashstart.com CNAME .
@@ -580,6 +582,8 @@ msr177.com CNAME .
 *.msr177.com CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 dns.nguyendn.com CNAME .
 *.dns.nguyendn.com CNAME .
 dns.nhtsky.com CNAME .
@@ -1704,6 +1708,8 @@ dns.crystalyx.net CNAME .
 *.dns.crystalyx.net CNAME .
 dns.cynthialabs.net CNAME .
 *.dns.cynthialabs.net CNAME .
+cloudflares.ddns.net CNAME .
+*.cloudflares.ddns.net CNAME .
 jit.ddns.net CNAME .
 *.jit.ddns.net CNAME .
 dns.deadsec.net CNAME .
@@ -1720,8 +1726,6 @@ dns.dnsoverhttps.net CNAME .
 *.dns.dnsoverhttps.net CNAME .
 takhtakh.domyah.net CNAME .
 *.takhtakh.domyah.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 adguard.easez.net CNAME .
@@ -2084,8 +2088,6 @@ dnsbunker.org CNAME .
 *.dnsbunker.org CNAME .
 ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
-home27.duckdns.org CNAME .
-*.home27.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
 krtekvpn.duckdns.org CNAME .
