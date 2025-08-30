@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756477800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1756509720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Aug 2025 14:30 UTC
-; Version: 2025.0829.1430.30
+; Last modified: 29 Aug 2025 23:22 UTC
+; Version: 2025.0829.2322.03
 ; Syntax: RPZ
 ; Number of entries: 27794
 ;
@@ -25793,6 +25793,8 @@ heimundgruen.dolebropro.shop CNAME .
 *.heimundgruen.dolebropro.shop CNAME .
 doodistraem.shop CNAME .
 *.doodistraem.shop CNAME .
+doodistroam.shop CNAME .
+*.doodistroam.shop CNAME .
 dosiman.shop CNAME .
 *.dosiman.shop CNAME .
 drdiscount.shop CNAME .
@@ -26131,8 +26133,6 @@ jahochzeitsdeava.shop CNAME .
 *.jahochzeitsdeava.shop CNAME .
 jako-eu.shop CNAME .
 *.jako-eu.shop CNAME .
-jalhpegx.shop CNAME .
-*.jalhpegx.shop CNAME .
 janner.shop CNAME .
 *.janner.shop CNAME .
 jaytoys.shop CNAME .
