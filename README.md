@@ -25,7 +25,7 @@
 **Jika Anda merasa terbantu dan ingin mendukung proyek ini, pertimbangkan untuk berdonasi melalui https://www.paypal.me/alsyundawy. Terima kasih atas dukungannya!**
 
 
-**Credit @2022-2025 APJII (Asosiasi Penyelenggara Jasa Internet Indonesia) & TrustPositif Kementerian Komunikasi dan Informatika (KOMINFO)**
+**Credit @2021-2025 Kementerian Komunikasi dan Digital Republik Indonesia (KOMDIGI) & Just Me , I & My Self!**
 
 ### Anda Memang Luar Biasa | HARRY DS ALSYUNDAWY | Kaum Rebahan Garis Keras & Militan
 
