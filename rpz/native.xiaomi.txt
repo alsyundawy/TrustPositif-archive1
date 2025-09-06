@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756829700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757114520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Xiaomi Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Sep 2025 16:15 UTC
-; Version: 2025.0902.1615.38
+; Last modified: 05 Sep 2025 23:22 UTC
+; Version: 2025.0905.2322.15
 ; Syntax: RPZ
-; Number of entries: 722
+; Number of entries: 720
 ;
 h4g3z1-native.xiaomi.web.app CNAME .
 *.h4g3z1-native.xiaomi.web.app CNAME .
@@ -343,8 +343,8 @@ notice.game.xiaomi.com CNAME .
 *.notice.game.xiaomi.com CNAME .
 static.game.xiaomi.com CNAME .
 *.static.game.xiaomi.com CNAME .
-voip.game.xiaomi.com CNAME .
-*.voip.game.xiaomi.com CNAME .
+wl.voip.game.xiaomi.com CNAME .
+*.wl.voip.game.xiaomi.com CNAME .
 wap.game.xiaomi.com CNAME .
 *.wap.game.xiaomi.com CNAME .
 api.xmpush.global.xiaomi.com CNAME .
@@ -537,8 +537,6 @@ pull.mitv.pandora.xiaomi.com CNAME .
 *.pull.mitv.pandora.xiaomi.com CNAME .
 mob.pandora.xiaomi.com CNAME .
 *.mob.pandora.xiaomi.com CNAME .
-monitor.pandora.xiaomi.com CNAME .
-*.monitor.pandora.xiaomi.com CNAME .
 netcheck.pandora.xiaomi.com CNAME .
 *.netcheck.pandora.xiaomi.com CNAME .
 ottl7-l2.pandora.xiaomi.com CNAME .

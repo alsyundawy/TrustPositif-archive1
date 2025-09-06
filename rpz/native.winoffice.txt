@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756509240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757114160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Aug 2025 23:14 UTC
-; Version: 2025.0829.2314.20
+; Last modified: 05 Sep 2025 23:16 UTC
+; Version: 2025.0905.2316.14
 ; Syntax: RPZ
-; Number of entries: 842
+; Number of entries: 836
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
@@ -265,8 +265,8 @@ ui.ads-int.microsoft.com CNAME .
 *.ui.ads-int.microsoft.com CNAME .
 adsdk.microsoft.com CNAME .
 *.adsdk.microsoft.com CNAME .
-adsstatic.microsoft.com CNAME .
-*.adsstatic.microsoft.com CNAME .
+beta.adsstatic.microsoft.com CNAME .
+*.beta.adsstatic.microsoft.com CNAME .
 adsstatic-int.microsoft.com CNAME .
 *.adsstatic-int.microsoft.com CNAME .
 advertising.microsoft.com CNAME .
@@ -427,10 +427,6 @@ c.gr.msn.com CNAME .
 *.c.gr.msn.com CNAME .
 h.msn.com CNAME .
 *.h.msn.com CNAME .
-h1.msn.com CNAME .
-*.h1.msn.com CNAME .
-h2.msn.com CNAME .
-*.h2.msn.com CNAME .
 h6.msn.com CNAME .
 *.h6.msn.com CNAME .
 c.hk.msn.com CNAME .
@@ -667,8 +663,6 @@ bf-analytics-tracker-tm.trafficmanager.net CNAME .
 *.bf-analytics-tracker-tm.trafficmanager.net CNAME .
 bingads.trafficmanager.net CNAME .
 *.bingads.trafficmanager.net CNAME .
-bingadsresources.trafficmanager.net CNAME .
-*.bingadsresources.trafficmanager.net CNAME .
 collection-location-livenet.trafficmanager.net CNAME .
 *.collection-location-livenet.trafficmanager.net CNAME .
 collector-main.trafficmanager.net CNAME .
