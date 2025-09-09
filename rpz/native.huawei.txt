@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751670660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757357700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Huawei Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jul 2025 23:11 UTC
-; Version: 2025.0704.2311.34
+; Last modified: 08 Sep 2025 18:55 UTC
+; Version: 2025.0908.1855.37
 ; Syntax: RPZ
-; Number of entries: 240
+; Number of entries: 246
 ;
 h4g3z1-native.huawei.web.app CNAME .
 *.h4g3z1-native.huawei.web.app CNAME .
@@ -35,6 +35,8 @@ metrics.dt.dbankcloud.cn CNAME .
 *.metrics.dt.dbankcloud.cn CNAME .
 metrics-dra.dt.dbankcloud.cn CNAME .
 *.metrics-dra.dt.dbankcloud.cn CNAME .
+metrics-drcn.dt.dbankcloud.cn CNAME .
+*.metrics-drcn.dt.dbankcloud.cn CNAME .
 metrics-dre.dt.dbankcloud.cn CNAME .
 *.metrics-dre.dt.dbankcloud.cn CNAME .
 metrics1-drcn.dt.dbankcloud.cn CNAME .
@@ -143,6 +145,10 @@ hisearch-dre.dt.dbankcloud.com CNAME .
 *.hisearch-dre.dt.dbankcloud.com CNAME .
 hisearch-drru.dt.dbankcloud.com CNAME .
 *.hisearch-drru.dt.dbankcloud.com CNAME .
+metrics-dra.dt.dbankcloud.com CNAME .
+*.metrics-dra.dt.dbankcloud.com CNAME .
+metrics-drcn.dt.dbankcloud.com CNAME .
+*.metrics-drcn.dt.dbankcloud.com CNAME .
 grs.dbankcloud.com CNAME .
 *.grs.dbankcloud.com CNAME .
 logservice1.dbankcloud.com CNAME .
