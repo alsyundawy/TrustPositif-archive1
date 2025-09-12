@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757493240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757635680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Sep 2025 08:34 UTC
-; Version: 2025.0910.0834.16
+; Last modified: 12 Sep 2025 00:08 UTC
+; Version: 2025.0912.0008.48
 ; Syntax: RPZ
-; Number of entries: 2944
+; Number of entries: 2948
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -137,6 +137,8 @@ winco.com.br CNAME .
 *.winco.com.br CNAME .
 mine.bz CNAME .
 *.mine.bz CNAME .
+mydns.bz CNAME .
+*.mydns.bz CNAME .
 compy.ca CNAME .
 *.compy.ca CNAME .
 homenode.ca CNAME .
@@ -1795,6 +1797,8 @@ dob.jp CNAME .
 *.dob.jp CNAME .
 gally.jp CNAME .
 *.gally.jp CNAME .
+mydns.jp CNAME .
+*.mydns.jp CNAME .
 privateimport.jp CNAME .
 *.privateimport.jp CNAME .
 sne.jp CNAME .

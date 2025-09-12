@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757573040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757629500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Sep 2025 06:44 UTC
-; Version: 2025.0911.0644.52
+; Last modified: 11 Sep 2025 22:25 UTC
+; Version: 2025.0911.2225.56
 ; Syntax: RPZ
-; Number of entries: 28060
+; Number of entries: 28068
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -3639,6 +3639,8 @@ brennholz-pelletspreise.com CNAME .
 *.brennholz-pelletspreise.com CNAME .
 brennholz360.com CNAME .
 *.brennholz360.com CNAME .
+brennholzdge.com CNAME .
+*.brennholzdge.com CNAME .
 brennholzdirekt.com CNAME .
 *.brennholzdirekt.com CNAME .
 brennholzhandelnahn.com CNAME .
@@ -3651,6 +3653,8 @@ brennholzs.com CNAME .
 *.brennholzs.com CNAME .
 brennholzscholl.com CNAME .
 *.brennholzscholl.com CNAME .
+brennholzundkaminhalbert.com CNAME .
+*.brennholzundkaminhalbert.com CNAME .
 brennholzwittmann.com CNAME .
 *.brennholzwittmann.com CNAME .
 brennholzz.com CNAME .
@@ -9395,6 +9399,8 @@ laamcom.com CNAME .
 *.laamcom.com CNAME .
 laandingblog.com CNAME .
 *.laandingblog.com CNAME .
+labexholz.com CNAME .
+*.labexholz.com CNAME .
 labubuclubs.com CNAME .
 *.labubuclubs.com CNAME .
 lacavepatrimoniale.com CNAME .
@@ -11155,6 +11161,8 @@ naturallyk.com CNAME .
 *.naturallyk.com CNAME .
 naturebeautyhealth.com CNAME .
 *.naturebeautyhealth.com CNAME .
+naturtechgarten.com CNAME .
+*.naturtechgarten.com CNAME .
 naumann-versand.com CNAME .
 *.naumann-versand.com CNAME .
 nauticaromania.com CNAME .
