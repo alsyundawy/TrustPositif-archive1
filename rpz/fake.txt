@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757690880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757761320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Sep 2025 15:28 UTC
-; Version: 2025.0912.1528.46
+; Last modified: 13 Sep 2025 11:02 UTC
+; Version: 2025.0913.1102.15
 ; Syntax: RPZ
-; Number of entries: 28104
+; Number of entries: 28110
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -5955,6 +5955,8 @@ jordanofficial.eu.com CNAME .
 *.jordanofficial.eu.com CNAME .
 longchamp.eu.com CNAME .
 *.longchamp.eu.com CNAME .
+longchampale.eu.com CNAME .
+*.longchampale.eu.com CNAME .
 officiellejordan.eu.com CNAME .
 *.officiellejordan.eu.com CNAME .
 eu-class.com CNAME .
@@ -16309,6 +16311,8 @@ vestigejewelry.com CNAME .
 *.vestigejewelry.com CNAME .
 vet-staking.com CNAME .
 *.vet-staking.com CNAME .
+vetementmodefemme.com CNAME .
+*.vetementmodefemme.com CNAME .
 vetntilate.com CNAME .
 *.vetntilate.com CNAME .
 vettuma.com CNAME .
@@ -25369,6 +25373,8 @@ werkzeughaus-shop.online CNAME .
 *.werkzeughaus-shop.online CNAME .
 wineinvest.online CNAME .
 *.wineinvest.online CNAME .
+zertifikate24.online CNAME .
+*.zertifikate24.online CNAME .
 acrbulletin.org CNAME .
 *.acrbulletin.org CNAME .
 amf-cloudmail.org CNAME .
@@ -25437,6 +25443,8 @@ gaborschweiz.org CNAME .
 *.gaborschweiz.org CNAME .
 genuine-asset.org CNAME .
 *.genuine-asset.org CNAME .
+gorgeousshop.org CNAME .
+*.gorgeousshop.org CNAME .
 grobenextapro.org CNAME .
 *.grobenextapro.org CNAME .
 heizung-deutschland.org CNAME .
@@ -26443,6 +26451,8 @@ johannabruecknerkeramik.shop CNAME .
 *.johannabruecknerkeramik.shop CNAME .
 josettevia.shop CNAME .
 *.josettevia.shop CNAME .
+jpins.shop CNAME .
+*.jpins.shop CNAME .
 juliahufnagelava.shop CNAME .
 *.juliahufnagelava.shop CNAME .
 juliakrakowiak.shop CNAME .
@@ -26559,8 +26569,6 @@ littledutchev.shop CNAME .
 *.littledutchev.shop CNAME .
 livishomeoutlet.shop CNAME .
 *.livishomeoutlet.shop CNAME .
-lksbe.shop CNAME .
-*.lksbe.shop CNAME .
 lloen.shop CNAME .
 *.lloen.shop CNAME .
 loakeoutlet.shop CNAME .
@@ -27015,8 +27023,6 @@ skecheroutlets.shop CNAME .
 *.skecheroutlets.shop CNAME .
 skielka-designschmuck.shop CNAME .
 *.skielka-designschmuck.shop CNAME .
-skove.shop CNAME .
-*.skove.shop CNAME .
 soapandmore.shop CNAME .
 *.soapandmore.shop CNAME .
 sochutz.shop CNAME .
