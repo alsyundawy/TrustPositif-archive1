@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757923740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757965560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Sep 2025 08:09 UTC
-; Version: 2025.0915.0809.07
+; Last modified: 15 Sep 2025 19:46 UTC
+; Version: 2025.0915.1946.14
 ; Syntax: RPZ
-; Number of entries: 2960
+; Number of entries: 2950
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -460,8 +460,6 @@ ns2.recursive.dnsbycomodo.com CNAME .
 *.ns2.recursive.dnsbycomodo.com CNAME .
 2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
 *.2.dnscrypt-cert.shield-2.dnsbycomodo.com CNAME .
-dnsenc.com CNAME .
-*.dnsenc.com CNAME .
 dnsforfamily.com CNAME .
 *.dnsforfamily.com CNAME .
 doh.dnslify.com CNAME .
@@ -508,8 +506,6 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 dns.edgeburnmedia.com CNAME .
 *.dns.edgeburnmedia.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 doh.flashstart.com CNAME .
@@ -652,8 +648,6 @@ msr177.com CNAME .
 *.msr177.com CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 httpdns.n.netease.com CNAME .
 *.httpdns.n.netease.com CNAME .
 httpdns-sdk.n.netease.com CNAME .
@@ -1216,8 +1210,6 @@ dns.skrep.eu CNAME .
 *.dns.skrep.eu CNAME .
 unasw.eu CNAME .
 *.unasw.eu CNAME .
-zougloub.eu CNAME .
-*.zougloub.eu CNAME .
 dns.expert CNAME .
 *.dns.expert CNAME .
 dns.connect.fail CNAME .
@@ -1290,8 +1282,6 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
-cynntex.fun CNAME .
-*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 jcdns.fun CNAME .
@@ -1734,8 +1724,6 @@ affcdn.net CNAME .
 *.affcdn.net CNAME .
 ahadns.net CNAME .
 *.ahadns.net CNAME .
-adguard.ajinga.net CNAME .
-*.adguard.ajinga.net CNAME .
 dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
 doh.amonsul.net CNAME .
@@ -2696,6 +2684,8 @@ crypto.sx CNAME .
 *.crypto.sx CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
+dns.cybertonic.tech CNAME .
+*.dns.cybertonic.tech CNAME .
 dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 dns.startupstack.tech CNAME .
