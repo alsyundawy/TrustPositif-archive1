@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758096240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758136980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Sep 2025 08:04 UTC
-; Version: 2025.0917.0804.01
+; Last modified: 17 Sep 2025 19:23 UTC
+; Version: 2025.0917.1923.57
 ; Syntax: RPZ
-; Number of entries: 2950
+; Number of entries: 2948
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -152,8 +152,8 @@ dns.sheggi.ch CNAME .
 *.dns.sheggi.ch CNAME .
 dns.simplylinux.ch CNAME .
 *.dns.simplylinux.ch CNAME .
-switch.ch CNAME .
-*.switch.ch CNAME .
+dns.switch.ch CNAME .
+*.dns.switch.ch CNAME .
 adguard.ruby.ci CNAME .
 *.adguard.ruby.ci CNAME .
 dns.michelo.cl CNAME .
@@ -506,8 +506,6 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 dns.edgeburnmedia.com CNAME .
 *.dns.edgeburnmedia.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 doh.flashstart.com CNAME .
@@ -1286,6 +1284,8 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
+cynntex.fun CNAME .
+*.cynntex.fun CNAME .
 dns.f4a.fun CNAME .
 *.dns.f4a.fun CNAME .
 jcdns.fun CNAME .
@@ -2684,8 +2684,6 @@ crypto.sx CNAME .
 *.crypto.sx CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
-dns.cybertonic.tech CNAME .
-*.dns.cybertonic.tech CNAME .
 dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 dns.startupstack.tech CNAME .
