@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757824020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758309540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Sep 2025 04:27 UTC
-; Version: 2025.0914.0427.26
+; Last modified: 19 Sep 2025 19:19 UTC
+; Version: 2025.0919.1919.06
 ; Syntax: RPZ
-; Number of entries: 834
+; Number of entries: 828
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
@@ -37,12 +37,6 @@ inference-app-gateway.koreacentral.cloudapp.azure.com CNAME .
 *.inference-app-gateway.koreacentral.cloudapp.azure.com CNAME .
 inference-app-gateway.northeurope.cloudapp.azure.com CNAME .
 *.inference-app-gateway.northeurope.cloudapp.azure.com CNAME .
-azsc-edge-bingads-southeastasia.southeastasia.cloudapp.azure.com CNAME .
-*.azsc-edge-bingads-southeastasia.southeastasia.cloudapp.azure.com CNAME .
-azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com CNAME .
-*.azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com CNAME .
-azsc-bingads-westus.westus.cloudapp.azure.com CNAME .
-*.azsc-bingads-westus.westus.cloudapp.azure.com CNAME .
 js.monitor.azure.com CNAME .
 *.js.monitor.azure.com CNAME .
 a4.bing.com CNAME .

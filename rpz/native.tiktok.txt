@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757114280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758309600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Fingerprinting DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Sep 2025 23:18 UTC
-; Version: 2025.0905.2318.06
+; Last modified: 19 Sep 2025 19:20 UTC
+; Version: 2025.0919.1920.34
 ; Syntax: RPZ
-; Number of entries: 732
+; Number of entries: 742
 ;
 h4g3z1-native.tiktok.web.app CNAME .
 *.h4g3z1-native.tiktok.web.app CNAME .
@@ -177,6 +177,8 @@ ads-imapi.tiktok.com CNAME .
 *.ads-imapi.tiktok.com CNAME .
 ads-measurement.tiktok.com CNAME .
 *.ads-measurement.tiktok.com CNAME .
+ads-ru.tiktok.com CNAME .
+*.ads-ru.tiktok.com CNAME .
 ads-service.tiktok.com CNAME .
 *.ads-service.tiktok.com CNAME .
 ads-sg.tiktok.com CNAME .
@@ -195,10 +197,14 @@ analytics-attribution-va.tiktok.com CNAME .
 *.analytics-attribution-va.tiktok.com CNAME .
 analytics-exp-i18n.tiktok.com CNAME .
 *.analytics-exp-i18n.tiktok.com CNAME .
+analytics-exp-ru.tiktok.com CNAME .
+*.analytics-exp-ru.tiktok.com CNAME .
 analytics-exp-sg.tiktok.com CNAME .
 *.analytics-exp-sg.tiktok.com CNAME .
 analytics-i18n.tiktok.com CNAME .
 *.analytics-i18n.tiktok.com CNAME .
+analytics-ru.tiktok.com CNAME .
+*.analytics-ru.tiktok.com CNAME .
 analytics-sg.tiktok.com CNAME .
 *.analytics-sg.tiktok.com CNAME .
 analytics-test.tiktok.com CNAME .
@@ -207,6 +213,10 @@ analytics-useast2a.tiktok.com CNAME .
 *.analytics-useast2a.tiktok.com CNAME .
 analytics-v6.tiktok.com CNAME .
 *.analytics-v6.tiktok.com CNAME .
+analytics16-normal.tiktok.com CNAME .
+*.analytics16-normal.tiktok.com CNAME .
+analytics16-normal-alisg.tiktok.com CNAME .
+*.analytics16-normal-alisg.tiktok.com CNAME .
 business-api.tiktok.com CNAME .
 *.business-api.tiktok.com CNAME .
 ads.in.tiktok.com CNAME .
