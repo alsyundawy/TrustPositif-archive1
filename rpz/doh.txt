@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758397980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758442080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Sep 2025 19:53 UTC
-; Version: 2025.0920.1953.37
+; Last modified: 21 Sep 2025 08:08 UTC
+; Version: 2025.0921.0808.59
 ; Syntax: RPZ
 ; Number of entries: 2960
 ;
@@ -506,8 +506,6 @@ easyhandshake.com CNAME .
 *.easyhandshake.com CNAME .
 dns.edgeburnmedia.com CNAME .
 *.dns.edgeburnmedia.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 doh.flashstart.com CNAME .
@@ -2302,6 +2300,8 @@ sg.teradns.org CNAME .
 *.sg.teradns.org CNAME .
 dns.thebuckners.org CNAME .
 *.dns.thebuckners.org CNAME .
+blocker.thethorsens.org CNAME .
+*.blocker.thethorsens.org CNAME .
 doh.tiarap.org CNAME .
 *.doh.tiarap.org CNAME .
 jp.tiarap.org CNAME .
