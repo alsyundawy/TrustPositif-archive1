@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758479100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758523800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,11 +7,12 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Sep 2025 18:25 UTC
-; Version: 2025.0921.1825.49
+; Last modified: 22 Sep 2025 06:50 UTC
+; Version: 2025.0922.0650.59
 ; Syntax: RPZ
-; Number of entries: 28114
+; Number of entries: 28108
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -3847,6 +3848,8 @@ cadlicenseseller.com CNAME .
 *.cadlicenseseller.com CNAME .
 cafivo.com CNAME .
 *.cafivo.com CNAME .
+cahok.com CNAME .
+*.cahok.com CNAME .
 calcaterrachallenge.com CNAME .
 *.calcaterrachallenge.com CNAME .
 calcioespresso.com CNAME .
@@ -4329,8 +4332,6 @@ clisicerity.com CNAME .
 *.clisicerity.com CNAME .
 clivechristianuk.com CNAME .
 *.clivechristianuk.com CNAME .
-cllusatoam.com CNAME .
-*.cllusatoam.com CNAME .
 clockwisek.com CNAME .
 *.clockwisek.com CNAME .
 clorislife.com CNAME .
@@ -5063,8 +5064,6 @@ deregresoalafuente.com CNAME .
 *.deregresoalafuente.com CNAME .
 derimoservices.com CNAME .
 *.derimoservices.com CNAME .
-derivainasm.com CNAME .
-*.derivainasm.com CNAME .
 dermao.com CNAME .
 *.dermao.com CNAME .
 dersa-spedition.com CNAME .
@@ -5469,8 +5468,6 @@ dualsuns.com CNAME .
 *.dualsuns.com CNAME .
 duavital.com CNAME .
 *.duavital.com CNAME .
-dubaihoteluae.com CNAME .
-*.dubaihoteluae.com CNAME .
 duftefursie.com CNAME .
 *.duftefursie.com CNAME .
 duftspraysale.com CNAME .
@@ -6197,8 +6194,6 @@ fabtechfire.com CNAME .
 *.fabtechfire.com CNAME .
 fabulaberlin.com CNAME .
 *.fabulaberlin.com CNAME .
-factearn.com CNAME .
-*.factearn.com CNAME .
 factorcoolfinders.com CNAME .
 *.factorcoolfinders.com CNAME .
 factory-glasses.com CNAME .
@@ -7107,6 +7102,8 @@ genericdoctor.com CNAME .
 *.genericdoctor.com CNAME .
 genericsbot.com CNAME .
 *.genericsbot.com CNAME .
+generositye.com CNAME .
+*.generositye.com CNAME .
 geneticrypto.com CNAME .
 *.geneticrypto.com CNAME .
 genevabroker.com CNAME .
@@ -8443,8 +8440,6 @@ hybridfahrrader.com CNAME .
 *.hybridfahrrader.com CNAME .
 hygienecleanshop.com CNAME .
 *.hygienecleanshop.com CNAME .
-hyip.com CNAME .
-*.hyip.com CNAME .
 hype-hoodies.com CNAME .
 *.hype-hoodies.com CNAME .
 hypescrape.com CNAME .
@@ -10083,6 +10078,8 @@ lwex02.com CNAME .
 *.lwex02.com CNAME .
 lynch-care.com CNAME .
 *.lynch-care.com CNAME .
+lypgm.com CNAME .
+*.lypgm.com CNAME .
 mabanco.com CNAME .
 *.mabanco.com CNAME .
 machicshop.com CNAME .
@@ -12815,8 +12812,6 @@ proupwholesale.com CNAME .
 *.proupwholesale.com CNAME .
 provenxperts.com CNAME .
 *.provenxperts.com CNAME .
-providedes.com CNAME .
-*.providedes.com CNAME .
 provise24.com CNAME .
 *.provise24.com CNAME .
 proximitye.com CNAME .
@@ -15759,8 +15754,6 @@ tranquiltrove.com CNAME .
 *.tranquiltrove.com CNAME .
 transethylene.com CNAME .
 *.transethylene.com CNAME .
-transferk.com CNAME .
-*.transferk.com CNAME .
 transformeri.com CNAME .
 *.transformeri.com CNAME .
 transieny.com CNAME .
@@ -25427,6 +25420,8 @@ awccanadianpharmacy.org CNAME .
 *.awccanadianpharmacy.org CNAME .
 best4you.org CNAME .
 *.best4you.org CNAME .
+bftb.org CNAME .
+*.bftb.org CNAME .
 bitcodeprime.org CNAME .
 *.bitcodeprime.org CNAME .
 bitcoin-revolution.org CNAME .

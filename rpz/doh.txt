@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758485340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758529260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -8,9 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Sep 2025 20:09 UTC
-; Version: 2025.0921.2009.08
+; Last modified: 22 Sep 2025 08:21 UTC
+; Version: 2025.0922.0821.44
 ; Syntax: RPZ
 ; Number of entries: 6512
 ;
@@ -2428,8 +2429,8 @@ dns0.eu CNAME .
 *.dns0.eu CNAME .
 doh.dns4all.eu CNAME .
 *.doh.dns4all.eu CNAME .
-doq64.dns4all.eu CNAME .
-*.doq64.dns4all.eu CNAME .
+doq.dns4all.eu CNAME .
+*.doq.dns4all.eu CNAME .
 dns.dualhosting.eu CNAME .
 *.dns.dualhosting.eu CNAME .
 ag.felixf.eu CNAME .
