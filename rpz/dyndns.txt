@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758485280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758615060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,11 +7,12 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Sep 2025 20:08 UTC
-; Version: 2025.0921.2008.45
+; Last modified: 23 Sep 2025 08:11 UTC
+; Version: 2025.0923.0811.59
 ; Syntax: RPZ
-; Number of entries: 2950
+; Number of entries: 2940
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -35,8 +36,6 @@ notici.as CNAME .
 *.notici.as CNAME .
 cloudns.asia CNAME .
 *.cloudns.asia CNAME .
-jomblo.asia CNAME .
-*.jomblo.asia CNAME .
 n0p.at CNAME .
 *.n0p.at CNAME .
 pii.at CNAME .
@@ -1499,8 +1498,6 @@ ath.cx CNAME .
 *.ath.cx CNAME .
 cloudns.cx CNAME .
 *.cloudns.cx CNAME .
-dyns.cx CNAME .
-*.dyns.cx CNAME .
 it.cx CNAME .
 *.it.cx CNAME .
 cpsnet.cz CNAME .
@@ -1643,8 +1640,6 @@ cf.gs CNAME .
 *.cf.gs CNAME .
 eva.hk CNAME .
 *.eva.hk CNAME .
-icg.hk CNAME .
-*.icg.hk CNAME .
 ismoke.hk CNAME .
 *.ismoke.hk CNAME .
 portmap.host CNAME .
@@ -1669,8 +1664,6 @@ now.im CNAME .
 *.now.im CNAME .
 cloudns.in CNAME .
 *.cloudns.in CNAME .
-evils.in CNAME .
-*.evils.in CNAME .
 aintno.info CNAME .
 *.aintno.info CNAME .
 barrel-of-knowledge.info CNAME .
@@ -1979,8 +1972,6 @@ dontexist.net CNAME .
 *.dontexist.net CNAME .
 dropfiles.net CNAME .
 *.dropfiles.net CNAME .
-dtdns.net CNAME .
-*.dtdns.net CNAME .
 dubya.net CNAME .
 *.dubya.net CNAME .
 duiadns.net CNAME .

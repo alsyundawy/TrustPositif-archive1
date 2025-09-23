@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758564900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758615120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Sep 2025 18:15 UTC
-; Version: 2025.0922.1815.59
+; Last modified: 23 Sep 2025 08:12 UTC
+; Version: 2025.0923.0812.22
 ; Syntax: RPZ
-; Number of entries: 6514
+; Number of entries: 6500
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -431,8 +431,6 @@ dns.krol.cloud CNAME .
 *.dns.krol.cloud CNAME .
 dns.lilith.cloud CNAME .
 *.dns.lilith.cloud CNAME .
-adguard.londonwebnerd.cloud CNAME .
-*.adguard.londonwebnerd.cloud CNAME .
 doh.nexen.cloud CNAME .
 *.doh.nexen.cloud CNAME .
 regiopolis.cloud CNAME .
@@ -2431,6 +2429,8 @@ doh.dns4all.eu CNAME .
 *.doh.dns4all.eu CNAME .
 doq.dns4all.eu CNAME .
 *.doq.dns4all.eu CNAME .
+doq64.dns4all.eu CNAME .
+*.doq64.dns4all.eu CNAME .
 dns.dualhosting.eu CNAME .
 *.dns.dualhosting.eu CNAME .
 ag.felixf.eu CNAME .
@@ -3829,8 +3829,6 @@ flyloadguard.dynu.net CNAME .
 *.flyloadguard.dynu.net CNAME .
 quangdo92.dynu.net CNAME .
 *.quangdo92.dynu.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 adguard.easez.net CNAME .
@@ -4283,8 +4281,6 @@ lookup.zucx.net CNAME .
 *.lookup.zucx.net CNAME .
 dns.b33.network CNAME .
 *.dns.b33.network CNAME .
-dns.edgy.network CNAME .
-*.dns.edgy.network CNAME .
 adblock.mydns.network CNAME .
 *.adblock.mydns.network CNAME .
 family.mydns.network CNAME .
@@ -4409,8 +4405,6 @@ adguard.wirimij.nl CNAME .
 *.adguard.wirimij.nl CNAME .
 dns.anon.no CNAME .
 *.dns.anon.no CNAME .
-adg.tshost.no CNAME .
-*.adg.tshost.no CNAME .
 adguard.clawsucht.nrw CNAME .
 *.adguard.clawsucht.nrw CNAME .
 anycast.censurfridns.nu CNAME .
@@ -4583,8 +4577,6 @@ eweyo.duckdns.org CNAME .
 *.eweyo.duckdns.org CNAME .
 genielee.duckdns.org CNAME .
 *.genielee.duckdns.org CNAME .
-home27.duckdns.org CNAME .
-*.home27.duckdns.org CNAME .
 jfeoks.duckdns.org CNAME .
 *.jfeoks.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
@@ -4621,8 +4613,6 @@ salvadoserver.duckdns.org CNAME .
 *.salvadoserver.duckdns.org CNAME .
 site-2.duckdns.org CNAME .
 *.site-2.duckdns.org CNAME .
-tuandns.duckdns.org CNAME .
-*.tuandns.duckdns.org CNAME .
 tungdnsne.duckdns.org CNAME .
 *.tungdnsne.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
@@ -4717,8 +4707,6 @@ songochain.freeddns.org CNAME .
 *.songochain.freeddns.org CNAME .
 studioai.freeddns.org CNAME .
 *.studioai.freeddns.org CNAME .
-adguard.gambini.org CNAME .
-*.adguard.gambini.org CNAME .
 dns.girino.org CNAME .
 *.dns.girino.org CNAME .
 dns.api.globus.org CNAME .
@@ -5913,8 +5901,6 @@ artemis.orionnexus.top CNAME .
 *.artemis.orionnexus.top CNAME .
 revelio.top CNAME .
 *.revelio.top CNAME .
-dns.rootlab.top CNAME .
-*.dns.rootlab.top CNAME .
 dns.seekfor.top CNAME .
 *.dns.seekfor.top CNAME .
 servis4u.top CNAME .
