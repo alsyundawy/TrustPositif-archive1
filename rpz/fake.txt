@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758795900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758839040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Sep 2025 10:25 UTC
-; Version: 2025.0925.1025.27
+; Last modified: 25 Sep 2025 22:24 UTC
+; Version: 2025.0925.2224.59
 ; Syntax: RPZ
-; Number of entries: 27696
+; Number of entries: 27698
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -13604,6 +13604,8 @@ schweibenhandel.com CNAME .
 *.schweibenhandel.com CNAME .
 schweibenprofi.com CNAME .
 *.schweibenprofi.com CNAME .
+schweizer-modewelt.com CNAME .
+*.schweizer-modewelt.com CNAME .
 scieriebarlet.com CNAME .
 *.scieriebarlet.com CNAME .
 scilulustore.com CNAME .
