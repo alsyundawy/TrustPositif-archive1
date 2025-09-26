@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758839040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758882300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Sep 2025 22:24 UTC
-; Version: 2025.0925.2224.59
+; Last modified: 26 Sep 2025 10:25 UTC
+; Version: 2025.0926.1025.35
 ; Syntax: RPZ
 ; Number of entries: 27698
 ;
@@ -8224,8 +8224,6 @@ hot-shopping.com CNAME .
 *.hot-shopping.com CNAME .
 hotel-brand-promotion.com CNAME .
 *.hotel-brand-promotion.com CNAME .
-hotel-ds.com CNAME .
-*.hotel-ds.com CNAME .
 hotel-marketing-advertising.com CNAME .
 *.hotel-marketing-advertising.com CNAME .
 hotelectronicshop.com CNAME .
@@ -12352,8 +12350,6 @@ plclerk.com CNAME .
 *.plclerk.com CNAME .
 pleasanthearthsale.com CNAME .
 *.pleasanthearthsale.com CNAME .
-pleasantk.com CNAME .
-*.pleasantk.com CNAME .
 pleaserchaussure.com CNAME .
 *.pleaserchaussure.com CNAME .
 pleaserchaussures.com CNAME .
@@ -15196,6 +15192,8 @@ theworldaccessories.com CNAME .
 *.theworldaccessories.com CNAME .
 thinkcarde.com CNAME .
 *.thinkcarde.com CNAME .
+thomannofficiall.com CNAME .
+*.thomannofficiall.com CNAME .
 thomannonlinestore.com CNAME .
 *.thomannonlinestore.com CNAME .
 thomascarolyn.com CNAME .
@@ -25058,6 +25056,8 @@ awccanadianpharmacy.org CNAME .
 *.awccanadianpharmacy.org CNAME .
 best4you.org CNAME .
 *.best4you.org CNAME .
+bftb.org CNAME .
+*.bftb.org CNAME .
 bitcodeprime.org CNAME .
 *.bitcodeprime.org CNAME .
 bitcoin-revolution.org CNAME .
