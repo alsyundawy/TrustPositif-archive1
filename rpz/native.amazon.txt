@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757114100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758928020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Amazon Tracker DNS Blocklist
@@ -7,11 +7,12 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Sep 2025 23:15 UTC
-; Version: 2025.0905.2315.27
+; Last modified: 26 Sep 2025 23:07 UTC
+; Version: 2025.0926.2307.56
 ; Syntax: RPZ
-; Number of entries: 642
+; Number of entries: 644
 ;
 advertising.amazon.ae CNAME .
 *.advertising.amazon.ae CNAME .
@@ -97,6 +98,8 @@ aax-us-cpm.amazon-adsystem.amazon.com CNAME .
 *.aax-us-cpm.amazon-adsystem.amazon.com CNAME .
 aax-us-ott.amazon-adsystem.amazon.com CNAME .
 *.aax-us-ott.amazon-adsystem.amazon.com CNAME .
+aax-us-west-2-ott.amazon-adsystem.amazon.com CNAME .
+*.aax-us-west-2-ott.amazon-adsystem.amazon.com CNAME .
 vaes.amazon-adsystem.amazon.com CNAME .
 *.vaes.amazon-adsystem.amazon.com CNAME .
 applab-sdk.amazon.com CNAME .
