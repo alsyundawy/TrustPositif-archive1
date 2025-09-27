@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758928560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758968700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Sep 2025 23:16 UTC
-; Version: 2025.0926.2316.27
+; Last modified: 27 Sep 2025 10:25 UTC
+; Version: 2025.0927.1025.21
 ; Syntax: RPZ
 ; Number of entries: 27760
 ;
@@ -1324,6 +1324,8 @@ vivar.ch CNAME .
 *.vivar.ch CNAME .
 wagnerzurich.ch CNAME .
 *.wagnerzurich.ch CNAME .
+warmood.ch CNAME .
+*.warmood.ch CNAME .
 zieglerzurich.ch CNAME .
 *.zieglerzurich.ch CNAME .
 antenaschile.cl CNAME .
@@ -3824,6 +3826,8 @@ cadlicenseseller.com CNAME .
 *.cadlicenseseller.com CNAME .
 cafivo.com CNAME .
 *.cafivo.com CNAME .
+cahok.com CNAME .
+*.cahok.com CNAME .
 calcaterrachallenge.com CNAME .
 *.calcaterrachallenge.com CNAME .
 calcioespresso.com CNAME .
@@ -6922,8 +6926,6 @@ gamestop-eu.com CNAME .
 *.gamestop-eu.com CNAME .
 gamestopland.com CNAME .
 *.gamestopland.com CNAME .
-gamifo.com CNAME .
-*.gamifo.com CNAME .
 ganggeschenk.com CNAME .
 *.ganggeschenk.com CNAME .
 gantvogueus.com CNAME .
@@ -12850,8 +12852,6 @@ radzubehoerde.com CNAME .
 *.radzubehoerde.com CNAME .
 ragwearaustria.com CNAME .
 *.ragwearaustria.com CNAME .
-raiffeisen-osterreich.com CNAME .
-*.raiffeisen-osterreich.com CNAME .
 raisefx.com CNAME .
 *.raisefx.com CNAME .
 rajputemporium.com CNAME .
