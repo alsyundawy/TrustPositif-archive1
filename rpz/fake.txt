@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759055100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759087620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Sep 2025 10:25 UTC
-; Version: 2025.0928.1025.41
+; Last modified: 28 Sep 2025 19:27 UTC
+; Version: 2025.0928.1927.55
 ; Syntax: RPZ
-; Number of entries: 27782
+; Number of entries: 27786
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4280,6 +4280,8 @@ clearance-kitchen.com CNAME .
 *.clearance-kitchen.com CNAME .
 clearancebath.com CNAME .
 *.clearancebath.com CNAME .
+clearancecurrent.com CNAME .
+*.clearancecurrent.com CNAME .
 clearancegowns.com CNAME .
 *.clearancegowns.com CNAME .
 clearancesurfsale.com CNAME .
@@ -10496,6 +10498,8 @@ midnightchems.com CNAME .
 *.midnightchems.com CNAME .
 midnighti.com CNAME .
 *.midnighti.com CNAME .
+midoga.com CNAME .
+*.midoga.com CNAME .
 midrisetpants.com CNAME .
 *.midrisetpants.com CNAME .
 mieleoutlet.com CNAME .

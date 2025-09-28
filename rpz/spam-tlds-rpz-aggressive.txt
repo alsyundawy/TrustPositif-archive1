@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759017660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759089780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs - Aggressive
@@ -14,10 +14,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Sep 2025 00:01 UTC
-; Version: 2025.0928.0001.11
+; Last modified: 28 Sep 2025 20:03 UTC
+; Version: 2025.0928.2003.46
 ; Syntax: RPZ
-; Number of latin TLDs: 280
+; Number of latin TLDs: 281
 ;
 *.actor CNAME .
 *.africa CNAME .
@@ -142,6 +142,7 @@ $TTL 300
 *.help CNAME .
 *.homes CNAME .
 *.hot CNAME .
+*.house CNAME .
 *.how CNAME .
 *.icu CNAME .
 *.ink CNAME .
