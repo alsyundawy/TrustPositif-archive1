@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759147080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759406160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Sep 2025 11:58 UTC
-; Version: 2025.0929.1158.41
+; Last modified: 02 Oct 2025 11:56 UTC
+; Version: 2025.1002.1156.10
 ; Syntax: RPZ
-; Number of entries: 6502
+; Number of entries: 6494
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -483,8 +483,6 @@ woodbridge.club CNAME .
 *.woodbridge.club CNAME .
 doh.18bit.cn CNAME .
 *.doh.18bit.cn CNAME .
-dns.23-4.cn CNAME .
-*.dns.23-4.cn CNAME .
 doh.360.cn CNAME .
 *.doh.360.cn CNAME .
 dot.360.cn CNAME .
@@ -3371,8 +3369,6 @@ doh.boje8.me CNAME .
 *.doh.boje8.me CNAME .
 dns.chriscsc.me CNAME .
 *.dns.chriscsc.me CNAME .
-pope.cnblw.me CNAME .
-*.pope.cnblw.me CNAME .
 doh.cornes.me CNAME .
 *.doh.cornes.me CNAME .
 doh.corpa.me CNAME .
@@ -3625,10 +3621,6 @@ dns.airns.net CNAME .
 *.dns.airns.net CNAME .
 dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
-dnsnl-noads.alekberg.net CNAME .
-*.dnsnl-noads.alekberg.net CNAME .
-dnsse-noads.alekberg.net CNAME .
-*.dnsse-noads.alekberg.net CNAME .
 diskstation.alexpollard.net CNAME .
 *.diskstation.alexpollard.net CNAME .
 management.alexpollard.net CNAME .
@@ -3721,6 +3713,8 @@ ae-agh1.dns.cryptroute.net CNAME .
 *.ae-agh1.dns.cryptroute.net CNAME .
 dns.crystalyx.net CNAME .
 *.dns.crystalyx.net CNAME .
+nanopi.cybergroove.net CNAME .
+*.nanopi.cybergroove.net CNAME .
 dns2.cybrespace.net CNAME .
 *.dns2.cybrespace.net CNAME .
 dns.cynthialabs.net CNAME .
@@ -6285,8 +6279,6 @@ dns.240527.xyz CNAME .
 *.dns.240527.xyz CNAME .
 dns.320888.xyz CNAME .
 *.dns.320888.xyz CNAME .
-dnsjp.3300000.xyz CNAME .
-*.dnsjp.3300000.xyz CNAME .
 dnstr.3300000.xyz CNAME .
 *.dnstr.3300000.xyz CNAME .
 dnstw.3300000.xyz CNAME .
