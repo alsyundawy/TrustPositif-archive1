@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759406160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759449420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Oct 2025 11:56 UTC
-; Version: 2025.1002.1156.10
+; Last modified: 02 Oct 2025 23:57 UTC
+; Version: 2025.1002.2357.02
 ; Syntax: RPZ
-; Number of entries: 6494
+; Number of entries: 6426
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -181,8 +181,6 @@ adguard.gbrossi.com.br CNAME .
 *.adguard.gbrossi.com.br CNAME .
 blackhole.gugainfo.com.br CNAME .
 *.blackhole.gugainfo.com.br CNAME .
-dns.joaofidelix.com.br CNAME .
-*.dns.joaofidelix.com.br CNAME .
 dnssp.koretech.com.br CNAME .
 *.dnssp.koretech.com.br CNAME .
 arrakis.korolyzer.com.br CNAME .
@@ -331,8 +329,6 @@ ux.go20.cf CNAME .
 *.ux.go20.cf CNAME .
 ychen.cf CNAME .
 *.ychen.cf CNAME .
-deep-henchman-excuse.cfd CNAME .
-*.deep-henchman-excuse.cfd CNAME .
 ajlxwk4kedu5.absq.ch CNAME .
 *.ajlxwk4kedu5.absq.ch CNAME .
 pebdbvi58gbc.absq.ch CNAME .
@@ -341,8 +337,6 @@ dns.chenu.ch CNAME .
 *.dns.chenu.ch CNAME .
 c.cicitt.ch CNAME .
 *.c.cicitt.ch CNAME .
-doh.datacore.ch CNAME .
-*.doh.datacore.ch CNAME .
 digitale-gesellschaft.ch CNAME .
 *.digitale-gesellschaft.ch CNAME .
 doh.immerda.ch CNAME .
@@ -1049,8 +1043,6 @@ dns.efficientdocuments.com CNAME .
 *.dns.efficientdocuments.com CNAME .
 doh.eieidns.com CNAME .
 *.doh.eieidns.com CNAME .
-dns.ellichua.com CNAME .
-*.dns.ellichua.com CNAME .
 dnssec.dns.enginyring.com CNAME .
 *.dnssec.dns.enginyring.com CNAME .
 dns01.enginyring.com CNAME .
@@ -2249,8 +2241,6 @@ dns.dewei.dev CNAME .
 *.dns.dewei.dev CNAME .
 eka.dilli.dev CNAME .
 *.eka.dilli.dev CNAME .
-dns.edison42.dev CNAME .
-*.dns.edison42.dev CNAME .
 dns.hanahira.dev CNAME .
 *.dns.hanahira.dev CNAME .
 adg.herry.dev CNAME .
@@ -2673,8 +2663,6 @@ ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
 cloudbenders.fun CNAME .
 *.cloudbenders.fun CNAME .
-cynntex.fun CNAME .
-*.cynntex.fun CNAME .
 dupatruwi22.fun CNAME .
 *.dupatruwi22.fun CNAME .
 dns.f4a.fun CNAME .
@@ -4277,8 +4265,6 @@ lookup.zucx.net CNAME .
 *.lookup.zucx.net CNAME .
 dns.b33.network CNAME .
 *.dns.b33.network CNAME .
-dns.edgy.network CNAME .
-*.dns.edgy.network CNAME .
 adblock.mydns.network CNAME .
 *.adblock.mydns.network CNAME .
 family.mydns.network CNAME .
@@ -4555,74 +4541,26 @@ ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
 dns35.allone.dpdns.org CNAME .
 *.dns35.allone.dpdns.org CNAME .
-ad1guard.duckdns.org CNAME .
-*.ad1guard.duckdns.org CNAME .
 adgrm.duckdns.org CNAME .
 *.adgrm.duckdns.org CNAME .
 adguardpi.duckdns.org CNAME .
 *.adguardpi.duckdns.org CNAME .
-aduma15.duckdns.org CNAME .
-*.aduma15.duckdns.org CNAME .
-armm.duckdns.org CNAME .
-*.armm.duckdns.org CNAME .
-cdzopi.duckdns.org CNAME .
-*.cdzopi.duckdns.org CNAME .
-derekcastle.duckdns.org CNAME .
-*.derekcastle.duckdns.org CNAME .
-dorkanddoodle.duckdns.org CNAME .
-*.dorkanddoodle.duckdns.org CNAME .
-eweyo.duckdns.org CNAME .
-*.eweyo.duckdns.org CNAME .
-genielee.duckdns.org CNAME .
-*.genielee.duckdns.org CNAME .
-jfeoks.duckdns.org CNAME .
-*.jfeoks.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
-kalwat.duckdns.org CNAME .
-*.kalwat.duckdns.org CNAME .
 kiwifunke.duckdns.org CNAME .
 *.kiwifunke.duckdns.org CNAME .
-kolobok2.duckdns.org CNAME .
-*.kolobok2.duckdns.org CNAME .
 krtekvpn.duckdns.org CNAME .
 *.krtekvpn.duckdns.org CNAME .
-ldaman.duckdns.org CNAME .
-*.ldaman.duckdns.org CNAME .
-leoadguard.duckdns.org CNAME .
-*.leoadguard.duckdns.org CNAME .
 morgenegg.duckdns.org CNAME .
 *.morgenegg.duckdns.org CNAME .
-nas1403.duckdns.org CNAME .
-*.nas1403.duckdns.org CNAME .
-nqh-dns.duckdns.org CNAME .
-*.nqh-dns.duckdns.org CNAME .
-o--o.duckdns.org CNAME .
-*.o--o.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
-pitchforkwaydns.duckdns.org CNAME .
-*.pitchforkwaydns.duckdns.org CNAME .
 punono.duckdns.org CNAME .
 *.punono.duckdns.org CNAME .
-quanmeme.duckdns.org CNAME .
-*.quanmeme.duckdns.org CNAME .
-salvadoserver.duckdns.org CNAME .
-*.salvadoserver.duckdns.org CNAME .
-site-2.duckdns.org CNAME .
-*.site-2.duckdns.org CNAME .
 tungdnsne.duckdns.org CNAME .
 *.tungdnsne.duckdns.org CNAME .
 unixfox.duckdns.org CNAME .
 *.unixfox.duckdns.org CNAME .
-wisehomeguard.duckdns.org CNAME .
-*.wisehomeguard.duckdns.org CNAME .
-workcavestl.duckdns.org CNAME .
-*.workcavestl.duckdns.org CNAME .
-x-o-x.duckdns.org CNAME .
-*.x-o-x.duckdns.org CNAME .
-x861g.duckdns.org CNAME .
-*.x861g.duckdns.org CNAME .
 akhilkalwakurthy.dyndns.org CNAME .
 *.akhilkalwakurthy.dyndns.org CNAME .
 ueni.dyndns.org CNAME .
@@ -4651,10 +4589,6 @@ resolver.dns.eban.eu.org CNAME .
 *.resolver.dns.eban.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 *.doh.excdn.eu.org CNAME .
-dns.de.futuredns.eu.org CNAME .
-*.dns.de.futuredns.eu.org CNAME .
-dns.us.futuredns.eu.org CNAME .
-*.dns.us.futuredns.eu.org CNAME .
 doh.greenwood.eu.org CNAME .
 *.doh.greenwood.eu.org CNAME .
 sweethome.in.eu.org CNAME .
@@ -5237,8 +5171,6 @@ sto01.dnscry.pt CNAME .
 *.sto01.dnscry.pt CNAME .
 sto02.dnscry.pt CNAME .
 *.sto02.dnscry.pt CNAME .
-syd01.dnscry.pt CNAME .
-*.syd01.dnscry.pt CNAME .
 syd02.dnscry.pt CNAME .
 *.syd02.dnscry.pt CNAME .
 tbs01.dnscry.pt CNAME .
