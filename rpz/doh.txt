@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759449420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759492620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Oct 2025 23:57 UTC
-; Version: 2025.1002.2357.02
+; Last modified: 03 Oct 2025 11:57 UTC
+; Version: 2025.1003.1157.01
 ; Syntax: RPZ
-; Number of entries: 6426
+; Number of entries: 6418
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -277,8 +277,6 @@ futurearts.cc CNAME .
 *.futurearts.cc CNAME .
 d.hansj.cc CNAME .
 *.d.hansj.cc CNAME .
-us-ny-alula.heliumcloud.cc CNAME .
-*.us-ny-alula.heliumcloud.cc CNAME .
 dns.huanmave.cc CNAME .
 *.dns.huanmave.cc CNAME .
 d.hxhd.cc CNAME .
@@ -1155,8 +1153,6 @@ httpdns-push.heytapmobile.com CNAME .
 *.httpdns-push.heytapmobile.com CNAME .
 himedns.com CNAME .
 *.himedns.com CNAME .
-dns.hnsfwlkj.com CNAME .
-*.dns.hnsfwlkj.com CNAME .
 adguard.hoangcongchuc.com CNAME .
 *.adguard.hoangcongchuc.com CNAME .
 dns.hoody.com CNAME .
@@ -2059,8 +2055,6 @@ adguard01.homepeter.de CNAME .
 *.adguard01.homepeter.de CNAME .
 doh.hottis.de CNAME .
 *.doh.hottis.de CNAME .
-doh.imaletion.de CNAME .
-*.doh.imaletion.de CNAME .
 dns.imchristian.de CNAME .
 *.dns.imchristian.de CNAME .
 dns.immanuelschaffer.de CNAME .
@@ -3241,8 +3235,6 @@ dns-free.link CNAME .
 *.dns-free.link CNAME .
 eth.link CNAME .
 *.eth.link CNAME .
-vps.filatov.link CNAME .
-*.vps.filatov.link CNAME .
 guidetoworld.link CNAME .
 *.guidetoworld.link CNAME .
 d1.insec.link CNAME .
