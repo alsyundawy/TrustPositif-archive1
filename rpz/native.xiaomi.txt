@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758309840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759533420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Xiaomi Tracker DNS Blocklist
@@ -7,11 +7,12 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Sep 2025 19:24 UTC
-; Version: 2025.0919.1924.49
+; Last modified: 03 Oct 2025 23:17 UTC
+; Version: 2025.1003.2317.18
 ; Syntax: RPZ
-; Number of entries: 718
+; Number of entries: 720
 ;
 h4g3z1-native.xiaomi.web.app CNAME .
 *.h4g3z1-native.xiaomi.web.app CNAME .
@@ -675,8 +676,10 @@ fr.resolver.msg.global.xiaomi.net CNAME .
 *.fr.resolver.msg.global.xiaomi.net CNAME .
 sec-cdn.static.intl.xiaomi.net CNAME .
 *.sec-cdn.static.intl.xiaomi.net CNAME .
-api.micloud.xiaomi.net CNAME .
-*.api.micloud.xiaomi.net CNAME .
+find.api.micloud.xiaomi.net CNAME .
+*.find.api.micloud.xiaomi.net CNAME .
+us.api.micloud.xiaomi.net CNAME .
+*.us.api.micloud.xiaomi.net CNAME .
 findapi.micloud.xiaomi.net CNAME .
 *.findapi.micloud.xiaomi.net CNAME .
 api.g.micloud.xiaomi.net CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759492620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759532520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Oct 2025 11:57 UTC
-; Version: 2025.1003.1157.01
+; Last modified: 03 Oct 2025 23:02 UTC
+; Version: 2025.1003.2302.26
 ; Syntax: RPZ
-; Number of entries: 6418
+; Number of entries: 6404
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -1293,8 +1293,6 @@ hkt.kozow.com CNAME .
 *.hkt.kozow.com CNAME .
 mechanikdns.kozow.com CNAME .
 *.mechanikdns.kozow.com CNAME .
-dns.kremzein.com CNAME .
-*.dns.kremzein.com CNAME .
 kstdownload.com CNAME .
 *.kstdownload.com CNAME .
 hdns.ksyun.com CNAME .
@@ -1365,8 +1363,6 @@ httpdns.meituan.com CNAME .
 *.httpdns.meituan.com CNAME .
 httpdnsvip.meituan.com CNAME .
 *.httpdnsvip.meituan.com CNAME .
-mendozasdelivery.com CNAME .
-*.mendozasdelivery.com CNAME .
 ss.microbaidu.com CNAME .
 *.ss.microbaidu.com CNAME .
 mikewaddick.com CNAME .
@@ -3405,8 +3401,6 @@ jpdns.hker.me CNAME .
 *.jpdns.hker.me CNAME .
 dns.huas.me CNAME .
 *.dns.huas.me CNAME .
-dns.indust.me CNAME .
-*.dns.indust.me CNAME .
 jkdns.me CNAME .
 *.jkdns.me CNAME .
 dns.johndave.me CNAME .
@@ -5605,16 +5599,12 @@ dns.levonet.sk CNAME .
 *.dns.levonet.sk CNAME .
 dns.p3k.sk CNAME .
 *.dns.p3k.sk CNAME .
-dns.ios.so CNAME .
-*.dns.ios.so CNAME .
 dns.elemental.software CNAME .
 *.dns.elemental.software CNAME .
 arashi.solutions CNAME .
 *.arashi.solutions CNAME .
 dns.cloudtrust.solutions CNAME .
 *.dns.cloudtrust.solutions CNAME .
-dns.insigne.solutions CNAME .
-*.dns.insigne.solutions CNAME .
 dns.lupine.solutions CNAME .
 *.dns.lupine.solutions CNAME .
 mabuktogel.solutions CNAME .
@@ -5785,8 +5775,6 @@ hk.jason666.top CNAME .
 *.hk.jason666.top CNAME .
 jimmyshjj.top CNAME .
 *.jimmyshjj.top CNAME .
-adguard.johanliebert.top CNAME .
-*.adguard.johanliebert.top CNAME .
 blog.kimiblock.top CNAME .
 *.blog.kimiblock.top CNAME .
 2024.laijy.top CNAME .
@@ -6323,8 +6311,6 @@ adguard.kitakitsune.xyz CNAME .
 *.adguard.kitakitsune.xyz CNAME .
 ko-18948-tr.xyz CNAME .
 *.ko-18948-tr.xyz CNAME .
-kx-97795-tr.xyz CNAME .
-*.kx-97795-tr.xyz CNAME .
 tr.league1.xyz CNAME .
 *.tr.league1.xyz CNAME .
 dns.libost.xyz CNAME .
