@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759750800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759793880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Oct 2025 11:40 UTC
-; Version: 2025.1006.1140.59
+; Last modified: 06 Oct 2025 23:38 UTC
+; Version: 2025.1006.2338.13
 ; Syntax: RPZ
-; Number of entries: 6700
+; Number of entries: 6704
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -5953,6 +5953,8 @@ dns.romain.tech CNAME .
 *.dns.romain.tech CNAME .
 dns.startupstack.tech CNAME .
 *.dns.startupstack.tech CNAME .
+tuskythehusky.tech CNAME .
+*.tuskythehusky.tech CNAME .
 dns.vmisch.tech CNAME .
 *.dns.vmisch.tech CNAME .
 dns.zfsystem.tech CNAME .
@@ -6483,6 +6485,8 @@ dns.354688.xyz CNAME .
 *.dns.354688.xyz CNAME .
 xjpdns.354688.xyz CNAME .
 *.xjpdns.354688.xyz CNAME .
+3dcosas.xyz CNAME .
+*.3dcosas.xyz CNAME .
 adguard2.546413.xyz CNAME .
 *.adguard2.546413.xyz CNAME .
 bwg.559299366.xyz CNAME .
