@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759789500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759832760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Oct 2025 22:25 UTC
-; Version: 2025.1006.2225.22
+; Last modified: 07 Oct 2025 10:26 UTC
+; Version: 2025.1007.1026.30
 ; Syntax: RPZ
-; Number of entries: 27442
+; Number of entries: 27456
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1322,6 +1322,8 @@ vivar.ch CNAME .
 *.vivar.ch CNAME .
 wagnerzurich.ch CNAME .
 *.wagnerzurich.ch CNAME .
+warmood.ch CNAME .
+*.warmood.ch CNAME .
 zieglerzurich.ch CNAME .
 *.zieglerzurich.ch CNAME .
 antenaschile.cl CNAME .
@@ -4282,6 +4284,8 @@ clisicerity.com CNAME .
 *.clisicerity.com CNAME .
 clivechristianuk.com CNAME .
 *.clivechristianuk.com CNAME .
+cllusatoam.com CNAME .
+*.cllusatoam.com CNAME .
 clockwisek.com CNAME .
 *.clockwisek.com CNAME .
 clorislife.com CNAME .
@@ -4994,6 +4998,8 @@ deregresoalafuente.com CNAME .
 *.deregresoalafuente.com CNAME .
 derimoservices.com CNAME .
 *.derimoservices.com CNAME .
+derivainasm.com CNAME .
+*.derivainasm.com CNAME .
 dermao.com CNAME .
 *.dermao.com CNAME .
 dersa-spedition.com CNAME .
@@ -6092,6 +6098,8 @@ fabtechfire.com CNAME .
 *.fabtechfire.com CNAME .
 fabulaberlin.com CNAME .
 *.fabulaberlin.com CNAME .
+factearn.com CNAME .
+*.factearn.com CNAME .
 factory-glasses.com CNAME .
 *.factory-glasses.com CNAME .
 factorystore24.com CNAME .
@@ -8448,6 +8456,8 @@ inexpensivy.com CNAME .
 *.inexpensivy.com CNAME .
 inferright.com CNAME .
 *.inferright.com CNAME .
+inferutmati.com CNAME .
+*.inferutmati.com CNAME .
 infineink.com CNAME .
 *.infineink.com CNAME .
 infinitediamond.com CNAME .
@@ -10728,8 +10738,6 @@ munitax-group.com CNAME .
 *.munitax-group.com CNAME .
 muscleshall.com CNAME .
 *.muscleshall.com CNAME .
-museopradotickets.com CNAME .
-*.museopradotickets.com CNAME .
 musicgearfashion.com CNAME .
 *.musicgearfashion.com CNAME .
 musichotsale.com CNAME .
@@ -11010,8 +11018,6 @@ naturaevo.com CNAME .
 *.naturaevo.com CNAME .
 naturalcosmeticssales.com CNAME .
 *.naturalcosmeticssales.com CNAME .
-naturallyh.com CNAME .
-*.naturallyh.com CNAME .
 naturallyk.com CNAME .
 *.naturallyk.com CNAME .
 naturebeautyhealth.com CNAME .
@@ -12538,6 +12544,8 @@ proupwholesale.com CNAME .
 *.proupwholesale.com CNAME .
 provenxperts.com CNAME .
 *.provenxperts.com CNAME .
+providedes.com CNAME .
+*.providedes.com CNAME .
 provise24.com CNAME .
 *.provise24.com CNAME .
 proximitye.com CNAME .
@@ -14078,6 +14086,8 @@ sparkgenesisai.com CNAME .
 *.sparkgenesisai.com CNAME .
 sparprime.com CNAME .
 *.sparprime.com CNAME .
+specializeg.com CNAME .
+*.specializeg.com CNAME .
 specialmenswear.com CNAME .
 *.specialmenswear.com CNAME .
 specialpurchasepoint.com CNAME .
@@ -14468,6 +14478,8 @@ style-lighting.com CNAME .
 *.style-lighting.com CNAME .
 styleettendances.com CNAME .
 *.styleettendances.com CNAME .
+stylefamous.com CNAME .
+*.stylefamous.com CNAME .
 stylefatface.com CNAME .
 *.stylefatface.com CNAME .
 stylessunny.com CNAME .
@@ -15288,6 +15300,8 @@ topoutdoorsport.com CNAME .
 *.topoutdoorsport.com CNAME .
 topoutdoorstore.com CNAME .
 *.topoutdoorstore.com CNAME .
+toppillsstore.com CNAME .
+*.toppillsstore.com CNAME .
 toppreis24.com CNAME .
 *.toppreis24.com CNAME .
 topreinigungsmittel.com CNAME .
@@ -16264,8 +16278,6 @@ wandleuchtende.com CNAME .
 *.wandleuchtende.com CNAME .
 wanfangmaier.com CNAME .
 *.wanfangmaier.com CNAME .
-wannounce.com CNAME .
-*.wannounce.com CNAME .
 wantclothes.com CNAME .
 *.wantclothes.com CNAME .
 wardglam.com CNAME .
@@ -26428,6 +26440,8 @@ speedypartsdeava.shop CNAME .
 *.speedypartsdeava.shop CNAME .
 spielhaus.shop CNAME .
 *.spielhaus.shop CNAME .
+spielzeugopapop.shop CNAME .
+*.spielzeugopapop.shop CNAME .
 sportkluftshopava.shop CNAME .
 *.sportkluftshopava.shop CNAME .
 sportkluftshopeu.shop CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759578660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759837080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Oct 2025 11:51 UTC
-; Version: 2025.1004.1151.15
+; Last modified: 07 Oct 2025 11:38 UTC
+; Version: 2025.1007.1138.26
 ; Syntax: RPZ
-; Number of entries: 2936
+; Number of entries: 2938
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1620,6 +1620,8 @@ stes.fi CNAME .
 *.stes.fi CNAME .
 yiff.fi CNAME .
 *.yiff.fi CNAME .
+2p.fm CNAME .
+*.2p.fm CNAME .
 radiogirl.fm CNAME .
 *.radiogirl.fm CNAME .
 no-ip.fr CNAME .
