@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759837080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759880280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Oct 2025 11:38 UTC
-; Version: 2025.1007.1138.51
+; Last modified: 07 Oct 2025 23:38 UTC
+; Version: 2025.1007.2338.59
 ; Syntax: RPZ
-; Number of entries: 6704
+; Number of entries: 6710
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -779,6 +779,8 @@ internetsehat.bebasid.com CNAME .
 *.internetsehat.bebasid.com CNAME .
 domburg.beruys.com CNAME .
 *.domburg.beruys.com CNAME .
+bestwon203.com CNAME .
+*.bestwon203.com CNAME .
 dns.bgeneto.com CNAME .
 *.dns.bgeneto.com CNAME .
 httpdns.bilivideo.com CNAME .
@@ -1177,6 +1179,8 @@ adg-swe.h4nt3r.com CNAME .
 *.adg-swe.h4nt3r.com CNAME .
 adguard.h4nt3r.com CNAME .
 *.adguard.h4nt3r.com CNAME .
+dns.hakutakucn.com CNAME .
+*.dns.hakutakucn.com CNAME .
 adguard.haneulo.com CNAME .
 *.adguard.haneulo.com CNAME .
 dns.hannielzhang.com CNAME .
@@ -5997,6 +6001,8 @@ adh.51st.top CNAME .
 *.adh.51st.top CNAME .
 adfreedns.top CNAME .
 *.adfreedns.top CNAME .
+bubblex2.top CNAME .
+*.bubblex2.top CNAME .
 catchen121299.top CNAME .
 *.catchen121299.top CNAME .
 alidns.cb1999.top CNAME .
