@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759967040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760010540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Oct 2025 23:44 UTC
-; Version: 2025.1008.2344.46
+; Last modified: 09 Oct 2025 11:49 UTC
+; Version: 2025.1009.1149.06
 ; Syntax: RPZ
-; Number of entries: 6810
+; Number of entries: 6814
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -3377,6 +3377,8 @@ intertop.link CNAME .
 *.intertop.link CNAME .
 s2.littlebr.link CNAME .
 *.s2.littlebr.link CNAME .
+ns3.link CNAME .
+*.ns3.link CNAME .
 dns.pmxu.link CNAME .
 *.dns.pmxu.link CNAME .
 nephos.rocksolidtech.link CNAME .
@@ -4223,6 +4225,8 @@ us-saj-w-f-1.nashkan.net CNAME .
 *.us-saj-w-f-1.nashkan.net CNAME .
 us-saj-w-p-1.nashkan.net CNAME .
 *.us-saj-w-p-1.nashkan.net CNAME .
+dns.nefret.net CNAME .
+*.dns.nefret.net CNAME .
 adguard.neotix.net CNAME .
 *.adguard.neotix.net CNAME .
 dns.netrve.net CNAME .
