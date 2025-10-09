@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759923960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759967040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Oct 2025 11:46 UTC
-; Version: 2025.1008.1146.35
+; Last modified: 08 Oct 2025 23:44 UTC
+; Version: 2025.1008.2344.46
 ; Syntax: RPZ
-; Number of entries: 6806
+; Number of entries: 6810
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1147,6 +1147,8 @@ lamdtl.giize.com CNAME .
 *.lamdtl.giize.com CNAME .
 sdns22.gkonuralp.com CNAME .
 *.sdns22.gkonuralp.com CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 dev.gonnadive.com CNAME .
 *.dev.gonnadive.com CNAME .
 adguard.gonzcid.com CNAME .
@@ -4773,8 +4775,6 @@ punono.duckdns.org CNAME .
 *.punono.duckdns.org CNAME .
 quanmeme.duckdns.org CNAME .
 *.quanmeme.duckdns.org CNAME .
-rcpc2.duckdns.org CNAME .
-*.rcpc2.duckdns.org CNAME .
 salvadoserver.duckdns.org CNAME .
 *.salvadoserver.duckdns.org CNAME .
 site-2.duckdns.org CNAME .
@@ -4881,6 +4881,8 @@ songochain.freeddns.org CNAME .
 *.songochain.freeddns.org CNAME .
 studioai.freeddns.org CNAME .
 *.studioai.freeddns.org CNAME .
+adguard.gambini.org CNAME .
+*.adguard.gambini.org CNAME .
 dns.girino.org CNAME .
 *.dns.girino.org CNAME .
 dns.api.globus.org CNAME .
@@ -6137,6 +6139,8 @@ hk.jason666.top CNAME .
 *.hk.jason666.top CNAME .
 jimmyshjj.top CNAME .
 *.jimmyshjj.top CNAME .
+adguard.johanliebert.top CNAME .
+*.adguard.johanliebert.top CNAME .
 blog.kimiblock.top CNAME .
 *.blog.kimiblock.top CNAME .
 2024.laijy.top CNAME .
