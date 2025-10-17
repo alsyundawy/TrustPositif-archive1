@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760657820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760701260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Oct 2025 23:37 UTC
-; Version: 2025.1016.2337.46
+; Last modified: 17 Oct 2025 11:41 UTC
+; Version: 2025.1017.1141.23
 ; Syntax: RPZ
-; Number of entries: 6826
+; Number of entries: 6794
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1523,8 +1523,6 @@ x.ns1net.com CNAME .
 *.x.ns1net.com CNAME .
 ns3.com CNAME .
 *.ns3.com CNAME .
-nsown.com CNAME .
-*.nsown.com CNAME .
 dns.nullrecon.com CNAME .
 *.dns.nullrecon.com CNAME .
 dns.numerus.com CNAME .
@@ -1617,34 +1615,10 @@ dns.pgnhatrang.com CNAME .
 *.dns.pgnhatrang.com CNAME .
 philqoo.com CNAME .
 *.philqoo.com CNAME .
-doh.centraleu.pi-dns.com CNAME .
-*.doh.centraleu.pi-dns.com CNAME .
-dot.centraleu.pi-dns.com CNAME .
-*.dot.centraleu.pi-dns.com CNAME .
 doh.pi-dns.com CNAME .
 *.doh.pi-dns.com CNAME .
-doh.eastas.pi-dns.com CNAME .
-*.doh.eastas.pi-dns.com CNAME .
-dot.eastas.pi-dns.com CNAME .
-*.dot.eastas.pi-dns.com CNAME .
-doh.eastau.pi-dns.com CNAME .
-*.doh.eastau.pi-dns.com CNAME .
-dot.eastau.pi-dns.com CNAME .
-*.dot.eastau.pi-dns.com CNAME .
-doh.eastus.pi-dns.com CNAME .
-*.doh.eastus.pi-dns.com CNAME .
-dot.eastus.pi-dns.com CNAME .
-*.dot.eastus.pi-dns.com CNAME .
-doh.northeu.pi-dns.com CNAME .
-*.doh.northeu.pi-dns.com CNAME .
-dot.northeu.pi-dns.com CNAME .
-*.dot.northeu.pi-dns.com CNAME .
 doh.westeu.pi-dns.com CNAME .
 *.doh.westeu.pi-dns.com CNAME .
-doh.westus.pi-dns.com CNAME .
-*.doh.westus.pi-dns.com CNAME .
-dot.westus.pi-dns.com CNAME .
-*.dot.westus.pi-dns.com CNAME .
 dns.pieterdherde.com CNAME .
 *.dns.pieterdherde.com CNAME .
 helios.plan9-dns.com CNAME .
@@ -3275,8 +3249,6 @@ dns.neeb.it CNAME .
 *.dns.neeb.it CNAME .
 doh.luigi.nexific.it CNAME .
 *.doh.luigi.nexific.it CNAME .
-dns.npsolution.it CNAME .
-*.dns.npsolution.it CNAME .
 adguard.pangerl.it CNAME .
 *.adguard.pangerl.it CNAME .
 dns.repressoh.it CNAME .
@@ -5953,8 +5925,6 @@ doh.mochou.site CNAME .
 *.doh.mochou.site CNAME .
 oscnl.site CNAME .
 *.oscnl.site CNAME .
-outdoorchair.site CNAME .
-*.outdoorchair.site CNAME .
 sgdns.site CNAME .
 *.sgdns.site CNAME .
 s1.s2.shahramv1.site CNAME .
@@ -6765,8 +6735,6 @@ loan.paymdm.xyz CNAME .
 *.loan.paymdm.xyz CNAME .
 pepetio.xyz CNAME .
 *.pepetio.xyz CNAME .
-pingbi.xyz CNAME .
-*.pingbi.xyz CNAME .
 pm1239-bd.xyz CNAME .
 *.pm1239-bd.xyz CNAME .
 pm7051-br.xyz CNAME .
