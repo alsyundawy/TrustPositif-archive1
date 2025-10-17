@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758927540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760137200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Sep 2025 22:59 UTC
-; Version: 2025.0926.2259.10
+; Last modified: 10 Oct 2025 23:00 UTC
+; Version: 2025.1010.2300.28
 ; Syntax: RPZ
-; Number of entries: 358
+; Number of entries: 364
 ;
 h4g3z1-nosafesearch.web.app CNAME .
 *.h4g3z1-nosafesearch.web.app CNAME .
@@ -22,6 +22,8 @@ search.st8.at CNAME .
 *.search.st8.at CNAME .
 searx.com.au CNAME .
 *.searx.com.au CNAME .
+searx.bar CNAME .
+*.searx.bar CNAME .
 search.aol.ca CNAME .
 *.search.aol.ca CNAME .
 dynabyte.ca CNAME .
@@ -258,6 +260,8 @@ searx.zdechov.net CNAME .
 *.searx.zdechov.net CNAME .
 librex.nohost.network CNAME .
 *.librex.nohost.network CNAME .
+searx.alec.ninja CNAME .
+*.searx.alec.ninja CNAME .
 zoek.anchel.nl CNAME .
 *.zoek.anchel.nl CNAME .
 searx.doofpot.nl CNAME .
@@ -284,6 +288,8 @@ search.disroot.org CNAME .
 *.search.disroot.org CNAME .
 search.dr460nf1r3.org CNAME .
 *.search.dr460nf1r3.org CNAME .
+wgl.frail.duckdns.org CNAME .
+*.wgl.frail.duckdns.org CNAME .
 searx.elukerio.org CNAME .
 *.searx.elukerio.org CNAME .
 searx.everdot.org CNAME .

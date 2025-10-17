@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758309660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760040240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
@@ -7,11 +7,12 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Sep 2025 19:21 UTC
-; Version: 2025.0919.1921.17
+; Last modified: 09 Oct 2025 20:04 UTC
+; Version: 2025.1009.2004.07
 ; Syntax: RPZ
-; Number of entries: 926
+; Number of entries: 930
 ;
 h4g3z1-native.tiktok.extended.web.app CNAME .
 *.h4g3z1-native.tiktok.extended.web.app CNAME .
@@ -435,6 +436,8 @@ mcs-va-useast2a.tiktokv.com CNAME .
 *.mcs-va-useast2a.tiktokv.com CNAME .
 mon.tiktokv.com CNAME .
 *.mon.tiktokv.com CNAME .
+mon-boot.tiktokv.com CNAME .
+*.mon-boot.tiktokv.com CNAME .
 mon-i18n.tiktokv.com CNAME .
 *.mon-i18n.tiktokv.com CNAME .
 mon-phx.tiktokv.com CNAME .
@@ -871,6 +874,8 @@ log-tiktok.byteoversea.net CNAME .
 *.log-tiktok.byteoversea.net CNAME .
 mcs-tiktok.byteoversea.net CNAME .
 *.mcs-tiktok.byteoversea.net CNAME .
+mon-boot.tiktokv.com.edgekey.net CNAME .
+*.mon-boot.tiktokv.com.edgekey.net CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net CNAME .
 *.sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net CNAME .
 ad.tiktok.tv CNAME .
