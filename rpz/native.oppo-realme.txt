@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1758309780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760741940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's OPPO & Realme Tracker DNS Blocklist
@@ -7,11 +7,12 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Sep 2025 19:23 UTC
-; Version: 2025.0919.1923.59
+; Last modified: 17 Oct 2025 22:59 UTC
+; Version: 2025.1017.2259.38
 ; Syntax: RPZ
-; Number of entries: 708
+; Number of entries: 704
 ;
 h4g3z1-native.oppo-realme.web.app CNAME .
 *.h4g3z1-native.oppo-realme.web.app CNAME .
@@ -605,12 +606,8 @@ browser-api-za.heytapmobile.com CNAME .
 *.browser-api-za.heytapmobile.com CNAME .
 browser-sdk-fr.heytapmobile.com CNAME .
 *.browser-sdk-fr.heytapmobile.com CNAME .
-browser-sdk-in.heytapmobile.com CNAME .
-*.browser-sdk-in.heytapmobile.com CNAME .
 browser-sdk-ru.heytapmobile.com CNAME .
 *.browser-sdk-ru.heytapmobile.com CNAME .
-browser-sdk-us.heytapmobile.com CNAME .
-*.browser-sdk-us.heytapmobile.com CNAME .
 browserfiles.heytapmobile.com CNAME .
 *.browserfiles.heytapmobile.com CNAME .
 api-gl.cdo.heytapmobile.com CNAME .

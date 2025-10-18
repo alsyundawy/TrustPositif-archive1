@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757357700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760741700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Huawei Tracker DNS Blocklist
@@ -7,11 +7,12 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Sep 2025 18:55 UTC
-; Version: 2025.0908.1855.37
+; Last modified: 17 Oct 2025 22:55 UTC
+; Version: 2025.1017.2255.24
 ; Syntax: RPZ
-; Number of entries: 246
+; Number of entries: 244
 ;
 h4g3z1-native.huawei.web.app CNAME .
 *.h4g3z1-native.huawei.web.app CNAME .
@@ -133,8 +134,6 @@ grs-dbankcloud-com-drcn.wec.dbankedge.cn CNAME .
 *.grs-dbankcloud-com-drcn.wec.dbankedge.cn CNAME .
 logserver.nzxcloud.cn CNAME .
 *.logserver.nzxcloud.cn CNAME .
-ubacollect-drcn.cloud.dbankcloud.co CNAME .
-*.ubacollect-drcn.cloud.dbankcloud.co CNAME .
 dnkeeper.dbankcloud.com CNAME .
 *.dnkeeper.dbankcloud.com CNAME .
 hisearch-dra.dt.dbankcloud.com CNAME .

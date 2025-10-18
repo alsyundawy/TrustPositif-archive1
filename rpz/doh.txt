@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760701260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760741220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Oct 2025 11:41 UTC
-; Version: 2025.1017.1141.23
+; Last modified: 17 Oct 2025 22:47 UTC
+; Version: 2025.1017.2247.56
 ; Syntax: RPZ
-; Number of entries: 6794
+; Number of entries: 6790
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -4289,8 +4289,6 @@ adguard.rjscho.net CNAME .
 *.adguard.rjscho.net CNAME .
 dns.rotunneling.net CNAME .
 *.dns.rotunneling.net CNAME .
-samsdns1943.net CNAME .
-*.samsdns1943.net CNAME .
 dns.sarakas.net CNAME .
 *.dns.sarakas.net CNAME .
 dns1.sarakas.net CNAME .
@@ -5015,8 +5013,6 @@ dn5.talesam.org CNAME .
 *.dn5.talesam.org CNAME .
 dns1.techeasy.org CNAME .
 *.dns1.techeasy.org CNAME .
-ab.teleportbot.org CNAME .
-*.ab.teleportbot.org CNAME .
 au.teradns.org CNAME .
 *.au.teradns.org CNAME .
 de.teradns.org CNAME .
