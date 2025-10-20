@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760881920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760912580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Oct 2025 13:52 UTC
-; Version: 2025.1019.1352.03
+; Last modified: 19 Oct 2025 22:23 UTC
+; Version: 2025.1019.2223.29
 ; Syntax: RPZ
-; Number of entries: 28366
+; Number of entries: 28374
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -5376,6 +5376,8 @@ dithclerk.com CNAME .
 *.dithclerk.com CNAME .
 divisaautopecas.com CNAME .
 *.divisaautopecas.com CNAME .
+divisconcept.com CNAME .
+*.divisconcept.com CNAME .
 divorion.com CNAME .
 *.divorion.com CNAME .
 divyz.com CNAME .
@@ -8336,6 +8338,8 @@ holzhandler.com CNAME .
 *.holzhandler.com CNAME .
 holzheimersdorf.com CNAME .
 *.holzheimersdorf.com CNAME .
+e.holzheiz.com CNAME .
+*.e.holzheiz.com CNAME .
 holzlagermarket.com CNAME .
 *.holzlagermarket.com CNAME .
 holzliefer.com CNAME .
@@ -18250,6 +18254,8 @@ brennholzhaus.de CNAME .
 *.brennholzhaus.de CNAME .
 brennholzkamin.de CNAME .
 *.brennholzkamin.de CNAME .
+brennholzmeister.de CNAME .
+*.brennholzmeister.de CNAME .
 brennholzruhl.de CNAME .
 *.brennholzruhl.de CNAME .
 brennholzschnell24.de CNAME .
@@ -20290,6 +20296,8 @@ holzqualitat.de CNAME .
 *.holzqualitat.de CNAME .
 holzstreif.de CNAME .
 *.holzstreif.de CNAME .
+holzvomland.de CNAME .
+*.holzvomland.de CNAME .
 homado.de CNAME .
 *.homado.de CNAME .
 home-trend24.de CNAME .
