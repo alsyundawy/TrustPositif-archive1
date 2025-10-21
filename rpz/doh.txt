@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760916360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761046200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Oct 2025 23:26 UTC
-; Version: 2025.1019.2326.37
+; Last modified: 21 Oct 2025 11:30 UTC
+; Version: 2025.1021.1130.35
 ; Syntax: RPZ
-; Number of entries: 6788
+; Number of entries: 6800
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -565,6 +565,8 @@ us.sc92.cn CNAME .
 *.us.sc92.cn CNAME .
 dns.tefuir0829.cn CNAME .
 *.dns.tefuir0829.cn CNAME .
+paydns.wechatpay.cn CNAME .
+*.paydns.wechatpay.cn CNAME .
 dns.weibo.cn CNAME .
 *.dns.weibo.cn CNAME .
 xiaoxinhui.cn CNAME .
@@ -689,6 +691,8 @@ alidns.com CNAME .
 *.alidns.com CNAME .
 dns.aliyun.com CNAME .
 *.dns.aliyun.com CNAME .
+resolvers-cn.httpdns.aliyuncs.com CNAME .
+*.resolvers-cn.httpdns.aliyuncs.com CNAME .
 httpdns-api.aliyuncs.com CNAME .
 *.httpdns-api.aliyuncs.com CNAME .
 httpdns-sc.aliyuncs.com CNAME .
@@ -1429,6 +1433,10 @@ dns.megaong.com CNAME .
 *.dns.megaong.com CNAME .
 httpdns.meituan.com CNAME .
 *.httpdns.meituan.com CNAME .
+httpdnsmultiapi.meituan.com CNAME .
+*.httpdnsmultiapi.meituan.com CNAME .
+httpdnsmultiapivip.meituan.com CNAME .
+*.httpdnsmultiapivip.meituan.com CNAME .
 httpdnsvip.meituan.com CNAME .
 *.httpdnsvip.meituan.com CNAME .
 ss.microbaidu.com CNAME .
@@ -1663,6 +1671,8 @@ httpdns.kg.qq.com CNAME .
 *.httpdns.kg.qq.com CNAME .
 dns.weixin.qq.com CNAME .
 *.dns.weixin.qq.com CNAME .
+udns.weixin.qq.com CNAME .
+*.udns.weixin.qq.com CNAME .
 r1bnc.com CNAME .
 *.r1bnc.com CNAME .
 fi.r5acq.com CNAME .
@@ -1913,6 +1923,8 @@ adguard.zachitect.com CNAME .
 *.adguard.zachitect.com CNAME .
 oraclejp01.zerotorez.com CNAME .
 *.oraclejp01.zerotorez.com CNAME .
+httpdns.zhihu.com CNAME .
+*.httpdns.zhihu.com CNAME .
 res.zijji.com CNAME .
 *.res.zijji.com CNAME .
 xyz2.zmjflow.com CNAME .
