@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761042240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761085440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Oct 2025 10:24 UTC
-; Version: 2025.1021.1024.13
+; Last modified: 21 Oct 2025 22:24 UTC
+; Version: 2025.1021.2224.18
 ; Syntax: RPZ
-; Number of entries: 28410
+; Number of entries: 28420
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -7654,6 +7654,8 @@ gpt-immediate.com CNAME .
 *.gpt-immediate.com CNAME .
 graciousk.com CNAME .
 *.graciousk.com CNAME .
+graenergie.com CNAME .
+*.graenergie.com CNAME .
 grafwerkzeug.com CNAME .
 *.grafwerkzeug.com CNAME .
 aut.grandado.com CNAME .
@@ -18238,10 +18240,16 @@ borrelioseweb.de CNAME .
 *.borrelioseweb.de CNAME .
 bossfactoryofficial.de CNAME .
 *.bossfactoryofficial.de CNAME .
+bp-engel.de CNAME .
+*.bp-engel.de CNAME .
 bp-heizoel.de CNAME .
 *.bp-heizoel.de CNAME .
+bp-keuter.de CNAME .
+*.bp-keuter.de CNAME .
 bp-mineraloel.de CNAME .
 *.bp-mineraloel.de CNAME .
+bp-ort.de CNAME .
+*.bp-ort.de CNAME .
 braam-23.de CNAME .
 *.braam-23.de CNAME .
 braha-moebelhandel.de CNAME .
@@ -20760,6 +20768,8 @@ knackly.de CNAME .
 *.knackly.de CNAME .
 knallerkiste.de CNAME .
 *.knallerkiste.de CNAME .
+knobloch-energie.de CNAME .
+*.knobloch-energie.de CNAME .
 knoblochholzhandel.de CNAME .
 *.knoblochholzhandel.de CNAME .
 kobanga.de CNAME .

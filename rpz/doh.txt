@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761046200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761089400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Oct 2025 11:30 UTC
-; Version: 2025.1021.1130.35
+; Last modified: 21 Oct 2025 23:30 UTC
+; Version: 2025.1021.2330.34
 ; Syntax: RPZ
-; Number of entries: 6800
+; Number of entries: 6806
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1667,10 +1667,14 @@ publicdnsserver.com CNAME .
 *.publicdnsserver.com CNAME .
 dns.pumpkinvrar.com CNAME .
 *.dns.pumpkinvrar.com CNAME .
+dns.qq.com CNAME .
+*.dns.qq.com CNAME .
 httpdns.kg.qq.com CNAME .
 *.httpdns.kg.qq.com CNAME .
 dns.weixin.qq.com CNAME .
 *.dns.weixin.qq.com CNAME .
+paydns.weixin.qq.com CNAME .
+*.paydns.weixin.qq.com CNAME .
 udns.weixin.qq.com CNAME .
 *.udns.weixin.qq.com CNAME .
 r1bnc.com CNAME .
@@ -1817,6 +1821,8 @@ dns1.timothy-dev.com CNAME .
 *.dns1.timothy-dev.com CNAME .
 tk31z.com CNAME .
 *.tk31z.com CNAME .
+sdkconfig.tlivedns.com CNAME .
+*.sdkconfig.tlivedns.com CNAME .
 d.toairs.com CNAME .
 *.d.toairs.com CNAME .
 chronicle14.tplinkdns.com CNAME .
