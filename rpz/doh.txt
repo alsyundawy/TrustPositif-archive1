@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761089400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761175800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Oct 2025 23:30 UTC
-; Version: 2025.1021.2330.34
+; Last modified: 22 Oct 2025 23:30 UTC
+; Version: 2025.1022.2330.17
 ; Syntax: RPZ
-; Number of entries: 6806
+; Number of entries: 6794
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -917,8 +917,6 @@ ag.coco-tama-hoiku.com CNAME .
 *.ag.coco-tama-hoiku.com CNAME .
 dns.coderoria.com CNAME .
 *.dns.coderoria.com CNAME .
-dns.containerpi.com CNAME .
-*.dns.containerpi.com CNAME .
 dns.controld.com CNAME .
 *.dns.controld.com CNAME .
 doh.controld.com CNAME .
@@ -1623,10 +1621,6 @@ dns.pgnhatrang.com CNAME .
 *.dns.pgnhatrang.com CNAME .
 philqoo.com CNAME .
 *.philqoo.com CNAME .
-doh.pi-dns.com CNAME .
-*.doh.pi-dns.com CNAME .
-doh.westeu.pi-dns.com CNAME .
-*.doh.westeu.pi-dns.com CNAME .
 dns.pieterdherde.com CNAME .
 *.dns.pieterdherde.com CNAME .
 helios.plan9-dns.com CNAME .
@@ -3939,8 +3933,6 @@ flyloadguard.dynu.net CNAME .
 *.flyloadguard.dynu.net CNAME .
 quangdo92.dynu.net CNAME .
 *.quangdo92.dynu.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 adguard.easez.net CNAME .
@@ -4219,8 +4211,6 @@ us-saj-w-f-1.nashkan.net CNAME .
 *.us-saj-w-f-1.nashkan.net CNAME .
 us-saj-w-p-1.nashkan.net CNAME .
 *.us-saj-w-p-1.nashkan.net CNAME .
-dns.nefret.net CNAME .
-*.dns.nefret.net CNAME .
 adguard.neotix.net CNAME .
 *.adguard.neotix.net CNAME .
 dns.netrve.net CNAME .
@@ -4759,8 +4749,6 @@ leoadguard.duckdns.org CNAME .
 *.leoadguard.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 *.nas1403.duckdns.org CNAME .
-nqh-dns.duckdns.org CNAME .
-*.nqh-dns.duckdns.org CNAME .
 o--o.duckdns.org CNAME .
 *.o--o.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
