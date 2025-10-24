@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761251040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761296460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Oct 2025 20:24 UTC
-; Version: 2025.1023.2024.52
+; Last modified: 24 Oct 2025 09:01 UTC
+; Version: 2025.1024.0901.56
 ; Syntax: RPZ
-; Number of entries: 27916
+; Number of entries: 27924
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -19058,6 +19058,8 @@ fernbedienung-schalter.de CNAME .
 *.fernbedienung-schalter.de CNAME .
 ferne-schied.de CNAME .
 *.ferne-schied.de CNAME .
+fernholz-handel.de CNAME .
+*.fernholz-handel.de CNAME .
 festberg.de CNAME .
 *.festberg.de CNAME .
 festberg-ace.de CNAME .
@@ -19832,6 +19834,8 @@ heizoelnow.de CNAME .
 *.heizoelnow.de CNAME .
 heizoelport.de CNAME .
 *.heizoelport.de CNAME .
+heizoelpreise-region.de CNAME .
+*.heizoelpreise-region.de CNAME .
 heizoelpro.de CNAME .
 *.heizoelpro.de CNAME .
 heizoelprofi.de CNAME .
@@ -23420,8 +23424,12 @@ wetting.de CNAME .
 *.wetting.de CNAME .
 whatsexy.de CNAME .
 *.whatsexy.de CNAME .
+wieburg-handel.de CNAME .
+*.wieburg-handel.de CNAME .
 wiesmann-mode.de CNAME .
 *.wiesmann-mode.de CNAME .
+wika-shop.de CNAME .
+*.wika-shop.de CNAME .
 wilax.de CNAME .
 *.wilax.de CNAME .
 windelnschritte.de CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760741640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761296040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Oct 2025 22:54 UTC
-; Version: 2025.1017.2254.40
+; Last modified: 24 Oct 2025 08:54 UTC
+; Version: 2025.1024.0854.37
 ; Syntax: RPZ
 ; Number of entries: 744
 ;
@@ -620,8 +620,6 @@ telemetry.eastus.trafficmanager.net CNAME .
 *.telemetry.eastus.trafficmanager.net CNAME .
 eventservice.trafficmanager.net CNAME .
 *.eventservice.trafficmanager.net CNAME .
-fsad.trafficmanager.net CNAME .
-*.fsad.trafficmanager.net CNAME .
 ghochv3eng.trafficmanager.net CNAME .
 *.ghochv3eng.trafficmanager.net CNAME .
 glance-analytics.trafficmanager.net CNAME .
@@ -750,6 +748,8 @@ rawtelemetry-west.servicebus.windows.net CNAME .
 *.rawtelemetry-west.servicebus.windows.net CNAME .
 ss-telemetry.servicebus.windows.net CNAME .
 *.ss-telemetry.servicebus.windows.net CNAME .
+swiftanalyticsprod.servicebus.windows.net CNAME .
+*.swiftanalyticsprod.servicebus.windows.net CNAME .
 wayfinderanalytics.servicebus.windows.net CNAME .
 *.wayfinderanalytics.servicebus.windows.net CNAME .
 collector.azure.microsoft.scloud CNAME .

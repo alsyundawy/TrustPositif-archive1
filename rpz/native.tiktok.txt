@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760815800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761296100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Fingerprinting DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Oct 2025 19:30 UTC
-; Version: 2025.1018.1930.13
+; Last modified: 24 Oct 2025 08:55 UTC
+; Version: 2025.1024.0855.59
 ; Syntax: RPZ
-; Number of entries: 670
+; Number of entries: 676
 ;
 h4g3z1-native.tiktok.web.app CNAME .
 *.h4g3z1-native.tiktok.web.app CNAME .
@@ -172,6 +172,8 @@ ads-api.tiktok.com CNAME .
 *.ads-api.tiktok.com CNAME .
 ads-frontier.tiktok.com CNAME .
 *.ads-frontier.tiktok.com CNAME .
+ads-service.tiktok.com CNAME .
+*.ads-service.tiktok.com CNAME .
 ads-sg.tiktok.com CNAME .
 *.ads-sg.tiktok.com CNAME .
 analytics.tiktok.com CNAME .
@@ -594,12 +596,16 @@ adinstantpage16-normal-useastred.tiktokv.eu CNAME .
 *.adinstantpage16-normal-useastred.tiktokv.eu CNAME .
 location-v6-ttp2.tiktokv.eu CNAME .
 *.location-v6-ttp2.tiktokv.eu CNAME .
+locationv16-normal-useastred.tiktokv.eu CNAME .
+*.locationv16-normal-useastred.tiktokv.eu CNAME .
 log32-normal-no1a.tiktokv.eu CNAME .
 *.log32-normal-no1a.tiktokv.eu CNAME .
 mon.tiktokv.eu CNAME .
 *.mon.tiktokv.eu CNAME .
 rtc-logger-ie.tiktokv.eu CNAME .
 *.rtc-logger-ie.tiktokv.eu CNAME .
+rtc-logger16-normal-useastred.tiktokv.eu CNAME .
+*.rtc-logger16-normal-useastred.tiktokv.eu CNAME .
 rtlog16-normal-no1a.tiktokv.eu CNAME .
 *.rtlog16-normal-no1a.tiktokv.eu CNAME .
 rtlog16-normal-useastred.tiktokv.eu CNAME .
