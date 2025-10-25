@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761255060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761382980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Oct 2025 21:31 UTC
-; Version: 2025.1023.2131.20
+; Last modified: 25 Oct 2025 09:03 UTC
+; Version: 2025.1025.0903.19
 ; Syntax: RPZ
-; Number of entries: 6796
+; Number of entries: 6800
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -3269,6 +3269,8 @@ dns.servizimv.it CNAME .
 *.dns.servizimv.it CNAME .
 nas.stefanoperna.it CNAME .
 *.nas.stefanoperna.it CNAME .
+homenet.telecomitalia.it CNAME .
+*.homenet.telecomitalia.it CNAME .
 galileo.math.unipd.it CNAME .
 *.galileo.math.unipd.it CNAME .
 dns1-secure.wifire.it CNAME .
@@ -3665,6 +3667,8 @@ shinano.anime.com.my CNAME .
 *.shinano.anime.com.my CNAME .
 cloud.securifi.com.my CNAME .
 *.cloud.securifi.com.my CNAME .
+domain.name CNAME .
+*.domain.name CNAME .
 searxng.rcxpony.name CNAME .
 *.searxng.rcxpony.name CNAME .
 dns.reckoningslug.name CNAME .
