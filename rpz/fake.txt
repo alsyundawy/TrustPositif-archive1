@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761470700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761513900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 26 Oct 2025 09:25 UTC
-; Version: 2025.1026.0925.17
+; Last modified: 26 Oct 2025 21:25 UTC
+; Version: 2025.1026.2125.09
 ; Syntax: RPZ
-; Number of entries: 27976
+; Number of entries: 27986
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1720,6 +1720,8 @@ abigfishing.com CNAME .
 *.abigfishing.com CNAME .
 abilityne.com CNAME .
 *.abilityne.com CNAME .
+abm-industrie.com CNAME .
+*.abm-industrie.com CNAME .
 abodespot.com CNAME .
 *.abodespot.com CNAME .
 abrahamr.com CNAME .
@@ -15660,6 +15662,8 @@ transformeri.com CNAME .
 *.transformeri.com CNAME .
 transieny.com CNAME .
 *.transieny.com CNAME .
+transmarketconssrl.com CNAME .
+*.transmarketconssrl.com CNAME .
 transparentk.com CNAME .
 *.transparentk.com CNAME .
 transparentw.com CNAME .
@@ -19400,6 +19404,8 @@ geargalaxy.de CNAME .
 *.geargalaxy.de CNAME .
 gebaeudevorsorge.de CNAME .
 *.gebaeudevorsorge.de CNAME .
+gebra-gartenhandel.de CNAME .
+*.gebra-gartenhandel.de CNAME .
 gebuhr-tech.de CNAME .
 *.gebuhr-tech.de CNAME .
 gefellerts.de CNAME .
@@ -20786,6 +20792,8 @@ loreeskin.de CNAME .
 *.loreeskin.de CNAME .
 lorenz-kurreisen.de CNAME .
 *.lorenz-kurreisen.de CNAME .
+lori24.de CNAME .
+*.lori24.de CNAME .
 loriellebeauty.de CNAME .
 *.loriellebeauty.de CNAME .
 lottofrankfurt.de CNAME .
@@ -23530,6 +23538,8 @@ wotoba.de CNAME .
 *.wotoba.de CNAME .
 wowperucken.de CNAME .
 *.wowperucken.de CNAME .
+wp-welt-pelletsgmbh.de CNAME .
+*.wp-welt-pelletsgmbh.de CNAME .
 wuffyhunde.de CNAME .
 *.wuffyhunde.de CNAME .
 wufundmiau.de CNAME .
