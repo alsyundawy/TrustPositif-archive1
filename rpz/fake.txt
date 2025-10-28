@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761557100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761600300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Oct 2025 09:25 UTC
-; Version: 2025.1027.0925.18
+; Last modified: 27 Oct 2025 21:25 UTC
+; Version: 2025.1027.2125.15
 ; Syntax: RPZ
-; Number of entries: 28014
+; Number of entries: 28022
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -8924,6 +8924,8 @@ jewelrycherish.com CNAME .
 *.jewelrycherish.com CNAME .
 jewelryclaire.com CNAME .
 *.jewelryclaire.com CNAME .
+jewelrynovainc.com CNAME .
+*.jewelrynovainc.com CNAME .
 jgregoryfineart.com CNAME .
 *.jgregoryfineart.com CNAME .
 jieper.com CNAME .
@@ -17028,6 +17030,8 @@ youngla-danmark.com CNAME .
 *.youngla-danmark.com CNAME .
 yourgiftshopping.com CNAME .
 *.yourgiftshopping.com CNAME .
+yourhomeessences.com CNAME .
+*.yourhomeessences.com CNAME .
 yourmre.com CNAME .
 *.yourmre.com CNAME .
 youtradefx.com CNAME .
@@ -26142,6 +26146,8 @@ goldengoosess.shop CNAME .
 *.goldengoosess.shop CNAME .
 goldenheartsjewelry.shop CNAME .
 *.goldenheartsjewelry.shop CNAME .
+goldstoneindica.shop CNAME .
+*.goldstoneindica.shop CNAME .
 gomehut.shop CNAME .
 *.gomehut.shop CNAME .
 gp-photo.shop CNAME .
@@ -26648,6 +26654,8 @@ on-shoes.shop CNAME .
 *.on-shoes.shop CNAME .
 oncloudsneaker.shop CNAME .
 *.oncloudsneaker.shop CNAME .
+onestopdrip.shop CNAME .
+*.onestopdrip.shop CNAME .
 online-tonies.shop CNAME .
 *.online-tonies.shop CNAME .
 onschuhe.shop CNAME .
