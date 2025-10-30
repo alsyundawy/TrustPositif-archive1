@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761729900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761773400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Oct 2025 09:25 UTC
-; Version: 2025.1029.0925.09
+; Last modified: 29 Oct 2025 21:30 UTC
+; Version: 2025.1029.2130.13
 ; Syntax: RPZ
-; Number of entries: 28154
+; Number of entries: 28156
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -19962,6 +19962,8 @@ heizoel-held.de CNAME .
 *.heizoel-held.de CNAME .
 heizoel-jetzt.de CNAME .
 *.heizoel-jetzt.de CNAME .
+heizoel-marke.de CNAME .
+*.heizoel-marke.de CNAME .
 heizoel-portal.de CNAME .
 *.heizoel-portal.de CNAME .
 heizoel-premium.de CNAME .
