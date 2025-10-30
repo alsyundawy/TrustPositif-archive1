@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761773400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761816300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Oct 2025 21:30 UTC
-; Version: 2025.1029.2130.13
+; Last modified: 30 Oct 2025 09:25 UTC
+; Version: 2025.1030.0925.35
 ; Syntax: RPZ
-; Number of entries: 28156
+; Number of entries: 28162
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -7148,6 +7148,8 @@ gastronomiebedarf24.com CNAME .
 *.gastronomiebedarf24.com CNAME .
 gate3londonuk.com CNAME .
 *.gate3londonuk.com CNAME .
+gbuynix.com CNAME .
+*.gbuynix.com CNAME .
 gcitrading.com CNAME .
 *.gcitrading.com CNAME .
 geappliances-shop.com CNAME .
@@ -7590,8 +7592,6 @@ gothimmes.com CNAME .
 *.gothimmes.com CNAME .
 gourmetecke.com CNAME .
 *.gourmetecke.com CNAME .
-govern1.com CNAME .
-*.govern1.com CNAME .
 gpslocatorphone.com CNAME .
 *.gpslocatorphone.com CNAME .
 gpt-definity.com CNAME .
@@ -11710,6 +11710,8 @@ obroker.com CNAME .
 *.obroker.com CNAME .
 occasionak.com CNAME .
 *.occasionak.com CNAME .
+occasionk.com CNAME .
+*.occasionk.com CNAME .
 ochsner-agrarhandel.com CNAME .
 *.ochsner-agrarhandel.com CNAME .
 octa-trade.com CNAME .
@@ -27050,6 +27052,10 @@ speedypartsdeava.shop CNAME .
 *.speedypartsdeava.shop CNAME .
 spielhaus.shop CNAME .
 *.spielhaus.shop CNAME .
+spielprokonsole.shop CNAME .
+*.spielprokonsole.shop CNAME .
+spielprokonsole24.shop CNAME .
+*.spielprokonsole24.shop CNAME .
 spielzeugopapop.shop CNAME .
 *.spielzeugopapop.shop CNAME .
 sportkluftshopava.shop CNAME .
