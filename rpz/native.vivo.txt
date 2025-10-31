@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761296280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761904860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Vivo Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Oct 2025 08:58 UTC
-; Version: 2025.1024.0858.42
+; Last modified: 31 Oct 2025 10:01 UTC
+; Version: 2025.1031.1001.43
 ; Syntax: RPZ
-; Number of entries: 436
+; Number of entries: 440
 ;
 h4g3z1-native.vivo.web.app CNAME .
 *.h4g3z1-native.vivo.web.app CNAME .
@@ -242,6 +242,8 @@ in-os-config-appstore.vivoglobal.com CNAME .
 *.in-os-config-appstore.vivoglobal.com CNAME .
 in-pnrt-stsdk.vivoglobal.com CNAME .
 *.in-pnrt-stsdk.vivoglobal.com CNAME .
+in-prt-stsdk.vivoglobal.com CNAME .
+*.in-prt-stsdk.vivoglobal.com CNAME .
 in-third-appstore.vivoglobal.com CNAME .
 *.in-third-appstore.vivoglobal.com CNAME .
 in-timesync.vivoglobal.com CNAME .
@@ -412,6 +414,8 @@ tr-cota.vivoglobal.com CNAME .
 *.tr-cota.vivoglobal.com CNAME .
 tr-domaincfg.vivoglobal.com CNAME .
 *.tr-domaincfg.vivoglobal.com CNAME .
+tr-err-up.vivoglobal.com CNAME .
+*.tr-err-up.vivoglobal.com CNAME .
 tr-gdpr-vgc-datacenter.vivoglobal.com CNAME .
 *.tr-gdpr-vgc-datacenter.vivoglobal.com CNAME .
 tr-onrt-stsdk.vivoglobal.com CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761296040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761904620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Oct 2025 08:54 UTC
-; Version: 2025.1024.0854.37
+; Last modified: 31 Oct 2025 09:57 UTC
+; Version: 2025.1031.0957.19
 ; Syntax: RPZ
-; Number of entries: 744
+; Number of entries: 750
 ;
 h4g3z1-native.winoffice.web.app CNAME .
 *.h4g3z1-native.winoffice.web.app CNAME .
@@ -22,6 +22,8 @@ dc.applicationinsights.azure.cn CNAME .
 *.dc.applicationinsights.azure.cn CNAME .
 in.applicationinsights.azure.cn CNAME .
 *.in.applicationinsights.azure.cn CNAME .
+live.applicationinsights.azure.cn CNAME .
+*.live.applicationinsights.azure.cn CNAME .
 collector.azure.cn CNAME .
 *.collector.azure.cn CNAME .
 events.data.msn.cn CNAME .
@@ -604,6 +606,8 @@ bf-analytics-tracker-tm.trafficmanager.net CNAME .
 *.bf-analytics-tracker-tm.trafficmanager.net CNAME .
 bingads.trafficmanager.net CNAME .
 *.bingads.trafficmanager.net CNAME .
+ch-asimov-leafs-events-data.trafficmanager.net CNAME .
+*.ch-asimov-leafs-events-data.trafficmanager.net CNAME .
 collector-main.trafficmanager.net CNAME .
 *.collector-main.trafficmanager.net CNAME .
 tracker.flightview.com.trafficmanager.net CNAME .
@@ -732,6 +736,8 @@ citrixtelemetryeheu-alias.servicebus.windows.net CNAME .
 *.citrixtelemetryeheu-alias.servicebus.windows.net CNAME .
 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net CNAME .
 *.ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net CNAME .
+hme-live-loganalytics-namespace.servicebus.windows.net CNAME .
+*.hme-live-loganalytics-namespace.servicebus.windows.net CNAME .
 nexxtv-events.servicebus.windows.net CNAME .
 *.nexxtv-events.servicebus.windows.net CNAME .
 ppm-licensingtelemetry.servicebus.windows.net CNAME .
