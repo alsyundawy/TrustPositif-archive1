@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761859620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761885360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Oct 2025 21:27 UTC
-; Version: 2025.1030.2127.18
+; Last modified: 31 Oct 2025 04:36 UTC
+; Version: 2025.1031.0436.17
 ; Syntax: RPZ
 ; Number of entries: 28360
 ;
@@ -10900,8 +10900,6 @@ momoftrenton.com CNAME .
 *.momoftrenton.com CNAME .
 mon-accesprive.com CNAME .
 *.mon-accesprive.com CNAME .
-monacasses.com CNAME .
-*.monacasses.com CNAME .
 monasdefinanzenbk.com CNAME .
 *.monasdefinanzenbk.com CNAME .
 monatrade.com CNAME .
@@ -20220,6 +20218,8 @@ hillheizoel.de CNAME .
 *.hillheizoel.de CNAME .
 hinterman.de CNAME .
 *.hinterman.de CNAME .
+hinz-gartenhandel.de CNAME .
+*.hinz-gartenhandel.de CNAME .
 hiziel.de CNAME .
 *.hiziel.de CNAME .
 hochen-punkt.de CNAME .
@@ -23770,6 +23770,8 @@ wieburg-handel.de CNAME .
 *.wieburg-handel.de CNAME .
 wiesmann-mode.de CNAME .
 *.wiesmann-mode.de CNAME .
+wievano.de CNAME .
+*.wievano.de CNAME .
 wika-shop.de CNAME .
 *.wika-shop.de CNAME .
 wilax.de CNAME .
@@ -26918,8 +26920,6 @@ myhannaeu.shop CNAME .
 *.myhannaeu.shop CNAME .
 mymissionariess.shop CNAME .
 *.mymissionariess.shop CNAME .
-mytholon-vip.shop CNAME .
-*.mytholon-vip.shop CNAME .
 mytoys-eu.shop CNAME .
 *.mytoys-eu.shop CNAME .
 naaknaak.shop CNAME .
