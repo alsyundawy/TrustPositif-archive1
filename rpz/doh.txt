@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762022340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762079940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Nov 2025 18:39 UTC
-; Version: 2025.1101.1839.47
+; Last modified: 02 Nov 2025 10:39 UTC
+; Version: 2025.1102.1039.46
 ; Syntax: RPZ
-; Number of entries: 6802
+; Number of entries: 6794
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -837,8 +837,6 @@ bobstrecansky.com CNAME .
 *.bobstrecansky.com CNAME .
 botclassic.com CNAME .
 *.botclassic.com CNAME .
-dns.braene.com CNAME .
-*.dns.braene.com CNAME .
 bravedns.com CNAME .
 *.bravedns.com CNAME .
 agh.broaddy.com CNAME .
@@ -4549,8 +4547,6 @@ adguard.wirimij.nl CNAME .
 *.adguard.wirimij.nl CNAME .
 dns.anon.no CNAME .
 *.dns.anon.no CNAME .
-adguard.clawsucht.nrw CNAME .
-*.adguard.clawsucht.nrw CNAME .
 anycast.censurfridns.nu CNAME .
 *.anycast.censurfridns.nu CNAME .
 unicast.censurfridns.nu CNAME .
@@ -6025,8 +6021,6 @@ adguard.fatu.systems CNAME .
 *.adguard.fatu.systems CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
-dns.daarrk.tech CNAME .
-*.dns.daarrk.tech CNAME .
 s6.dipper315.tech CNAME .
 *.s6.dipper315.tech CNAME .
 dns.everdns.tech CNAME .
@@ -6087,8 +6081,6 @@ adfreedns.top CNAME .
 *.adfreedns.top CNAME .
 bubblex2.top CNAME .
 *.bubblex2.top CNAME .
-catchen121299.top CNAME .
-*.catchen121299.top CNAME .
 alidns.cb1999.top CNAME .
 *.alidns.cb1999.top CNAME .
 alidns2.cb1999.top CNAME .
