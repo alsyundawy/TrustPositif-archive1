@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762079940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762108560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Nov 2025 10:39 UTC
-; Version: 2025.1102.1039.46
+; Last modified: 02 Nov 2025 18:36 UTC
+; Version: 2025.1102.1836.35
 ; Syntax: RPZ
-; Number of entries: 6794
+; Number of entries: 6780
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1117,8 +1117,6 @@ resolver.frank-ruan.com CNAME .
 *.resolver.frank-ruan.com CNAME .
 dns.freemyemail.com CNAME .
 *.dns.freemyemail.com CNAME .
-srgaghome.freemyip.com CNAME .
-*.srgaghome.freemyip.com CNAME .
 walhalla.freemyip.com CNAME .
 *.walhalla.freemyip.com CNAME .
 wg-aghome.freemyip.com CNAME .
@@ -3015,6 +3013,8 @@ dns.gutwe.in CNAME .
 *.dns.gutwe.in CNAME .
 dns.iamanuragh.in CNAME .
 *.dns.iamanuragh.in CNAME .
+dns.joindns4.in CNAME .
+*.dns.joindns4.in CNAME .
 dns.kapite.in CNAME .
 *.dns.kapite.in CNAME .
 dns.mailcastle.in CNAME .
@@ -3481,8 +3481,6 @@ dns.dragon0697.me CNAME .
 *.dns.dragon0697.me CNAME .
 dns.druta.me CNAME .
 *.dns.druta.me CNAME .
-doh.dscloud.me CNAME .
-*.doh.dscloud.me CNAME .
 emmmmm.me CNAME .
 *.emmmmm.me CNAME .
 adguard1.fampopprol.me CNAME .
@@ -3977,8 +3975,6 @@ doh.ffmuc.net CNAME .
 *.doh.ffmuc.net CNAME .
 dot.ffmuc.net CNAME .
 *.dot.ffmuc.net CNAME .
-dns.fgbk.net CNAME .
-*.dns.fgbk.net CNAME .
 dns01.flm9.net CNAME .
 *.dns01.flm9.net CNAME .
 ns1.flodns.net CNAME .
@@ -4715,8 +4711,6 @@ adguardpi.duckdns.org CNAME .
 *.adguardpi.duckdns.org CNAME .
 aduma15.duckdns.org CNAME .
 *.aduma15.duckdns.org CNAME .
-andryk111.duckdns.org CNAME .
-*.andryk111.duckdns.org CNAME .
 armm.duckdns.org CNAME .
 *.armm.duckdns.org CNAME .
 blamb.duckdns.org CNAME .
@@ -4769,10 +4763,6 @@ tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
 tungdnsne.duckdns.org CNAME .
 *.tungdnsne.duckdns.org CNAME .
-unixfox.duckdns.org CNAME .
-*.unixfox.duckdns.org CNAME .
-vpich.duckdns.org CNAME .
-*.vpich.duckdns.org CNAME .
 wired-guardian.duckdns.org CNAME .
 *.wired-guardian.duckdns.org CNAME .
 wisehomeguard.duckdns.org CNAME .
@@ -5169,8 +5159,6 @@ drahonn.pro CNAME .
 *.drahonn.pro CNAME .
 dns.dynx.pro CNAME .
 *.dns.dynx.pro CNAME .
-dns.energized.pro CNAME .
-*.dns.energized.pro CNAME .
 httpdns.pro CNAME .
 *.httpdns.pro CNAME .
 ns1.lab321.pro CNAME .
@@ -5901,8 +5889,6 @@ callies-online.site CNAME .
 *.callies-online.site CNAME .
 dns88.site CNAME .
 *.dns88.site CNAME .
-agh.doubleatech.site CNAME .
-*.agh.doubleatech.site CNAME .
 fptdns.site CNAME .
 *.fptdns.site CNAME .
 ms.gswsfh2021.site CNAME .
