@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762137300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762166160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Nov 2025 02:35 UTC
-; Version: 2025.1103.0235.15
+; Last modified: 03 Nov 2025 10:36 UTC
+; Version: 2025.1103.1036.54
 ; Syntax: RPZ
-; Number of entries: 6772
+; Number of entries: 6766
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1459,8 +1459,6 @@ disinformer.mooo.com CNAME .
 *.disinformer.mooo.com CNAME .
 e23a.mooo.com CNAME .
 *.e23a.mooo.com CNAME .
-epic3.mooo.com CNAME .
-*.epic3.mooo.com CNAME .
 crypt.mostsecureme.com CNAME .
 *.crypt.mostsecureme.com CNAME .
 dns.motazhakim.com CNAME .
@@ -5703,8 +5701,6 @@ ksedns.ru CNAME .
 *.ksedns.ru CNAME .
 landerbrauver.ru CNAME .
 *.landerbrauver.ru CNAME .
-dns.lashes-brow.ru CNAME .
-*.dns.lashes-brow.ru CNAME .
 malanser.ru CNAME .
 *.malanser.ru CNAME .
 n10.martkotur.ru CNAME .
@@ -5729,8 +5725,6 @@ bobr.netphoenix.ru CNAME .
 *.bobr.netphoenix.ru CNAME .
 rockstars.netphoenix.ru CNAME .
 *.rockstars.netphoenix.ru CNAME .
-dns.ntcrz.ru CNAME .
-*.dns.ntcrz.ru CNAME .
 dns.omee4.ru CNAME .
 *.dns.omee4.ru CNAME .
 adguard.oms-ctr.ru CNAME .
