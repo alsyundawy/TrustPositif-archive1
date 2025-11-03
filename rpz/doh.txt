@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762108560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762137300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Nov 2025 18:36 UTC
-; Version: 2025.1102.1836.35
+; Last modified: 03 Nov 2025 02:35 UTC
+; Version: 2025.1103.0235.15
 ; Syntax: RPZ
-; Number of entries: 6780
+; Number of entries: 6772
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -3063,10 +3063,6 @@ dns.api.staging.globuscs.info CNAME .
 *.dns.api.staging.globuscs.info CNAME .
 dns.api.test.globuscs.info CNAME .
 *.dns.api.test.globuscs.info CNAME .
-doh.kekew.info CNAME .
-*.doh.kekew.info CNAME .
-doh3.kekew.info CNAME .
-*.doh3.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 lorc17-dns.komeho.info CNAME .
@@ -5537,8 +5533,6 @@ dns.vps.pw CNAME .
 *.dns.vps.pw CNAME .
 wuyou.pw CNAME .
 *.wuyou.pw CNAME .
-doh.kekew.racing CNAME .
-*.doh.kekew.racing CNAME .
 dns.labar.re CNAME .
 *.dns.labar.re CNAME .
 5g.o0o.re CNAME .
@@ -5973,8 +5967,6 @@ dns.epic.st CNAME .
 *.dns.epic.st CNAME .
 dns.sy.st CNAME .
 *.dns.sy.st CNAME .
-home-server.store CNAME .
-*.home-server.store CNAME .
 minilla.store CNAME .
 *.minilla.store CNAME .
 node9.servernode.store CNAME .
