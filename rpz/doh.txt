@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762166160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762194900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Nov 2025 10:36 UTC
-; Version: 2025.1103.1036.54
+; Last modified: 03 Nov 2025 18:35 UTC
+; Version: 2025.1103.1835.03
 ; Syntax: RPZ
-; Number of entries: 6766
+; Number of entries: 6744
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1713,8 +1713,6 @@ dns.sarilouis.com CNAME .
 *.dns.sarilouis.com CNAME .
 ns1.sc-lezhi.com CNAME .
 *.ns1.sc-lezhi.com CNAME .
-dns.scapetical.com CNAME .
-*.dns.scapetical.com CNAME .
 dns.scayn.com CNAME .
 *.dns.scayn.com CNAME .
 schimtar.com CNAME .
@@ -2401,8 +2399,6 @@ unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 adguard.nielsenhost.dk CNAME .
 *.adguard.nielsenhost.dk CNAME .
-doh.port53.dk CNAME .
-*.doh.port53.dk CNAME .
 doh.rasmusminde.dk CNAME .
 *.doh.rasmusminde.dk CNAME .
 adguard.strafer.dk CNAME .
@@ -5161,8 +5157,6 @@ test.marss.pro CNAME .
 *.test.marss.pro CNAME .
 ntwrkh.pro CNAME .
 *.ntwrkh.pro CNAME .
-plushub.pro CNAME .
-*.plushub.pro CNAME .
 dns.privateservices.pro CNAME .
 *.dns.privateservices.pro CNAME .
 cdn.refined.pro CNAME .
@@ -5499,22 +5493,6 @@ aitkcrev.minhduc.pw CNAME .
 *.aitkcrev.minhduc.pw CNAME .
 ttag.dns.nomu.pw CNAME .
 *.ttag.dns.nomu.pw CNAME .
-hungary.privacy-dns.pw CNAME .
-*.hungary.privacy-dns.pw CNAME .
-india.privacy-dns.pw CNAME .
-*.india.privacy-dns.pw CNAME .
-las-vegas.privacy-dns.pw CNAME .
-*.las-vegas.privacy-dns.pw CNAME .
-luxembourg.privacy-dns.pw CNAME .
-*.luxembourg.privacy-dns.pw CNAME .
-romania.privacy-dns.pw CNAME .
-*.romania.privacy-dns.pw CNAME .
-sweden.privacy-dns.pw CNAME .
-*.sweden.privacy-dns.pw CNAME .
-switzerland.privacy-dns.pw CNAME .
-*.switzerland.privacy-dns.pw CNAME .
-united-arab-emirates.privacy-dns.pw CNAME .
-*.united-arab-emirates.privacy-dns.pw CNAME .
 ant.dns.qwer.pw CNAME .
 *.ant.dns.qwer.pw CNAME .
 dog.dns.qwer.pw CNAME .
