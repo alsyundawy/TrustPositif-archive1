@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762223580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762252260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Nov 2025 02:33 UTC
-; Version: 2025.1104.0233.30
+; Last modified: 04 Nov 2025 10:31 UTC
+; Version: 2025.1104.1031.23
 ; Syntax: RPZ
-; Number of entries: 6740
+; Number of entries: 6734
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -3263,8 +3263,6 @@ galileo.math.unipd.it CNAME .
 *.galileo.math.unipd.it CNAME .
 dns1-secure.wifire.it CNAME .
 *.dns1-secure.wifire.it CNAME .
-dns2-secure.wifire.it CNAME .
-*.dns2-secure.wifire.it CNAME .
 iij.jp CNAME .
 *.iij.jp CNAME .
 tngch.mydns.jp CNAME .
@@ -5505,8 +5503,6 @@ raj.pw CNAME .
 *.raj.pw CNAME .
 dns.vps.pw CNAME .
 *.dns.vps.pw CNAME .
-wuyou.pw CNAME .
-*.wuyou.pw CNAME .
 dns.labar.re CNAME .
 *.dns.labar.re CNAME .
 5g.o0o.re CNAME .
@@ -5787,8 +5783,6 @@ dns.vkhudyakov.ru CNAME .
 *.dns.vkhudyakov.ru CNAME .
 vladpro.ru CNAME .
 *.vladpro.ru CNAME .
-vpndns.ru CNAME .
-*.vpndns.ru CNAME .
 waydnes.ru CNAME .
 *.waydnes.ru CNAME .
 dns.xcapenet.ru CNAME .
