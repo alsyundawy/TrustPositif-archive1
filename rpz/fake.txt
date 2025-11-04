@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762248360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762277160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,15 +9,17 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Nov 2025 09:26 UTC
-; Version: 2025.1104.0926.01
+; Last modified: 04 Nov 2025 17:26 UTC
+; Version: 2025.1104.1726.18
 ; Syntax: RPZ
-; Number of entries: 27794
+; Number of entries: 27810
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
+geldpro.ai CNAME .
+*.geldpro.ai CNAME .
 mindmetric.ai CNAME .
 *.mindmetric.ai CNAME .
 quantwise.ai CNAME .
@@ -9236,6 +9238,8 @@ kingofbuy.com CNAME .
 *.kingofbuy.com CNAME .
 kingrack.com CNAME .
 *.kingrack.com CNAME .
+kings-alliance.com CNAME .
+*.kings-alliance.com CNAME .
 kingseven-shop.com CNAME .
 *.kingseven-shop.com CNAME .
 kingstonbathroom.com CNAME .
@@ -17092,6 +17096,8 @@ zinpp.com CNAME .
 *.zinpp.com CNAME .
 zinsacm.com CNAME .
 *.zinsacm.com CNAME .
+zinsanlageexperten.com CNAME .
+*.zinsanlageexperten.com CNAME .
 zinskapital.com CNAME .
 *.zinskapital.com CNAME .
 zipgoat.com CNAME .
@@ -19030,6 +19036,8 @@ ffount-tech.de CNAME .
 *.ffount-tech.de CNAME .
 fichtenaumodehaus.de CNAME .
 *.fichtenaumodehaus.de CNAME .
+fidemanlage.de CNAME .
+*.fidemanlage.de CNAME .
 fiesefalle.de CNAME .
 *.fiesefalle.de CNAME .
 figulax.de CNAME .
@@ -22936,6 +22944,8 @@ tozido.de CNAME .
 *.tozido.de CNAME .
 trabo-garten.de CNAME .
 *.trabo-garten.de CNAME .
+tradiascrypto.de CNAME .
+*.tradiascrypto.de CNAME .
 trageli-tech.de CNAME .
 *.trageli-tech.de CNAME .
 tragleicht.de CNAME .
@@ -25396,6 +25406,8 @@ doode.pro CNAME .
 *.doode.pro CNAME .
 doosd.pro CNAME .
 *.doosd.pro CNAME .
+finanzarena.pro CNAME .
+*.finanzarena.pro CNAME .
 finanzwelt.pro CNAME .
 *.finanzwelt.pro CNAME .
 fxwinning.pro CNAME .
@@ -25744,6 +25756,8 @@ crealiveonline.shop CNAME .
 *.crealiveonline.shop CNAME .
 creammusicava.shop CNAME .
 *.creammusicava.shop CNAME .
+crgshopava.shop CNAME .
+*.crgshopava.shop CNAME .
 crunchysnacksava.shop CNAME .
 *.crunchysnacksava.shop CNAME .
 crxjik.shop CNAME .
@@ -27650,6 +27664,8 @@ degussa.website CNAME .
 *.degussa.website CNAME .
 deutschlandticket.website CNAME .
 *.deutschlandticket.website CNAME .
+topjobs.wiki CNAME .
+*.topjobs.wiki CNAME .
 de-global-link.work CNAME .
 *.de-global-link.work CNAME .
 depeople-works.work CNAME .
