@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761904620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762509600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 31 Oct 2025 09:57 UTC
-; Version: 2025.1031.0957.19
+; Last modified: 07 Nov 2025 10:00 UTC
+; Version: 2025.1107.1000.12
 ; Syntax: RPZ
 ; Number of entries: 750
 ;
@@ -602,8 +602,6 @@ analytics-listener.trafficmanager.net CNAME .
 *.analytics-listener.trafficmanager.net CNAME .
 beacons.trafficmanager.net CNAME .
 *.beacons.trafficmanager.net CNAME .
-bf-analytics-tracker-tm.trafficmanager.net CNAME .
-*.bf-analytics-tracker-tm.trafficmanager.net CNAME .
 bingads.trafficmanager.net CNAME .
 *.bingads.trafficmanager.net CNAME .
 ch-asimov-leafs-events-data.trafficmanager.net CNAME .
@@ -760,6 +758,8 @@ wayfinderanalytics.servicebus.windows.net CNAME .
 *.wayfinderanalytics.servicebus.windows.net CNAME .
 collector.azure.microsoft.scloud CNAME .
 *.collector.azure.microsoft.scloud CNAME .
+westus-0.in.applicationinsights.azure.com.drandts.co.uk CNAME .
+*.westus-0.in.applicationinsights.azure.com.drandts.co.uk CNAME .
 dc.applicationinsights.azure.us CNAME .
 *.dc.applicationinsights.azure.us CNAME .
 in.applicationinsights.azure.us CNAME .

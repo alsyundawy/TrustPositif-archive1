@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760974500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762509900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Xiaomi Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Oct 2025 15:35 UTC
-; Version: 2025.1020.1535.51
+; Last modified: 07 Nov 2025 10:05 UTC
+; Version: 2025.1107.1005.37
 ; Syntax: RPZ
-; Number of entries: 720
+; Number of entries: 714
 ;
 h4g3z1-native.xiaomi.web.app CNAME .
 *.h4g3z1-native.xiaomi.web.app CNAME .
@@ -492,8 +492,6 @@ c3-bgp.pandora.xiaomi.com CNAME .
 *.c3-bgp.pandora.xiaomi.com CNAME .
 c3mini.pandora.xiaomi.com CNAME .
 *.c3mini.pandora.xiaomi.com CNAME .
-c4.pandora.xiaomi.com CNAME .
-*.c4.pandora.xiaomi.com CNAME .
 appstore.cdn.pandora.xiaomi.com CNAME .
 *.appstore.cdn.pandora.xiaomi.com CNAME .
 gallery.cdn.pandora.xiaomi.com CNAME .
@@ -554,8 +552,6 @@ stat.pandora.xiaomi.com CNAME .
 *.stat.pandora.xiaomi.com CNAME .
 bgp.tv.pandora.xiaomi.com CNAME .
 *.bgp.tv.pandora.xiaomi.com CNAME .
-mob.tv.pandora.xiaomi.com CNAME .
-*.mob.tv.pandora.xiaomi.com CNAME .
 tvboss.pandora.xiaomi.com CNAME .
 *.tvboss.pandora.xiaomi.com CNAME .
 tvepg.pandora.xiaomi.com CNAME .
@@ -646,8 +642,6 @@ mina.xmpush.xiaomi.com CNAME .
 *.mina.xmpush.xiaomi.com CNAME .
 sandbox.xmpush.xiaomi.com CNAME .
 *.sandbox.xmpush.xiaomi.com CNAME .
-test-api.xmpush.xiaomi.com CNAME .
-*.test-api.xmpush.xiaomi.com CNAME .
 vip-api.xmpush.xiaomi.com CNAME .
 *.vip-api.xmpush.xiaomi.com CNAME .
 mistat.india.xiaomi.com.edgesuite.net CNAME .
