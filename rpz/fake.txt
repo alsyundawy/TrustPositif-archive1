@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762421160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762478760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Nov 2025 09:26 UTC
-; Version: 2025.1106.0926.26
+; Last modified: 07 Nov 2025 01:26 UTC
+; Version: 2025.1107.0126.35
 ; Syntax: RPZ
-; Number of entries: 27904
+; Number of entries: 27908
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4942,6 +4942,8 @@ de-vivobarefoots.com CNAME .
 *.de-vivobarefoots.com CNAME .
 deaddictedtohandbagsapp.com CNAME .
 *.deaddictedtohandbagsapp.com CNAME .
+deairecru.com CNAME .
+*.deairecru.com CNAME .
 dealira.com CNAME .
 *.dealira.com CNAME .
 dealit-quick-nl.com CNAME .
@@ -23188,6 +23190,8 @@ vbarefootkaufen.de CNAME .
 *.vbarefootkaufen.de CNAME .
 veestis.de CNAME .
 *.veestis.de CNAME .
+velander-beratung.de CNAME .
+*.velander-beratung.de CNAME .
 vellamia.de CNAME .
 *.vellamia.de CNAME .
 vellera.de CNAME .
