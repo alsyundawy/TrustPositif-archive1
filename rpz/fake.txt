@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762536360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762550880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 17:26 UTC
-; Version: 2025.1107.1726.56
+; Last modified: 07 Nov 2025 21:28 UTC
+; Version: 2025.1107.2128.46
 ; Syntax: RPZ
-; Number of entries: 28084
+; Number of entries: 28094
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -212,6 +212,8 @@ ceciliagraz.at CNAME .
 *.ceciliagraz.at CNAME .
 chillup.at CNAME .
 *.chillup.at CNAME .
+chrissie.at CNAME .
+*.chrissie.at CNAME .
 clarksaustria.at CNAME .
 *.clarksaustria.at CNAME .
 burton.co.at CNAME .
@@ -1476,6 +1478,8 @@ caringforcats.co CNAME .
 *.caringforcats.co CNAME .
 cine-flix.co CNAME .
 *.cine-flix.co CNAME .
+concepty.co CNAME .
+*.concepty.co CNAME .
 corteiz.co CNAME .
 *.corteiz.co CNAME .
 crossfitsuomi.co CNAME .
@@ -4340,6 +4344,8 @@ chriskkfishing.com CNAME .
 *.chriskkfishing.com CNAME .
 christmann-partner.com CNAME .
 *.christmann-partner.com CNAME .
+christmasdecorusa.com CNAME .
+*.christmasdecorusa.com CNAME .
 chubunnews.com CNAME .
 *.chubunnews.com CNAME .
 chytah.com CNAME .
@@ -4356,6 +4362,8 @@ circulatem.com CNAME .
 *.circulatem.com CNAME .
 circumstancen.com CNAME .
 *.circumstancen.com CNAME .
+citizensm.com CNAME .
+*.citizensm.com CNAME .
 citmarkets.com CNAME .
 *.citmarkets.com CNAME .
 citrades.com CNAME .
@@ -4648,6 +4656,8 @@ containersparks.com CNAME .
 *.containersparks.com CNAME .
 containert.com CNAME .
 *.containert.com CNAME .
+containerwelt24.com CNAME .
+*.containerwelt24.com CNAME .
 contiflexv.com CNAME .
 *.contiflexv.com CNAME .
 continentm.com CNAME .
@@ -4840,6 +4850,8 @@ csm-maker.com CNAME .
 *.csm-maker.com CNAME .
 csunbox.com CNAME .
 *.csunbox.com CNAME .
+cthesky.com CNAME .
+*.cthesky.com CNAME .
 ctoption.com CNAME .
 *.ctoption.com CNAME .
 ctxholdings.com CNAME .
@@ -25718,10 +25730,6 @@ ziviveo5.pro CNAME .
 *.ziviveo5.pro CNAME .
 l6shop.pw CNAME .
 *.l6shop.pw CNAME .
-agebob.abcsaved.rest CNAME .
-*.agebob.abcsaved.rest CNAME .
-befast.abcsaved.rest CNAME .
-*.befast.abcsaved.rest CNAME .
 greeceex.rest CNAME .
 *.greeceex.rest CNAME .
 aaaclothing.ru CNAME .
@@ -27842,6 +27850,8 @@ degussa-goldhandel.tv CNAME .
 *.degussa-goldhandel.tv CNAME .
 samoon.com.tw CNAME .
 *.samoon.com.tw CNAME .
+green-shop.com.ua CNAME .
+*.green-shop.com.ua CNAME .
 aktiennetwork.co.uk CNAME .
 *.aktiennetwork.co.uk CNAME .
 alphabullion.co.uk CNAME .
