@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762641600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762655760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,8 +10,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Nov 2025 22:40 UTC
-; Version: 2025.1108.2240.55
+; Last modified: 09 Nov 2025 02:36 UTC
+; Version: 2025.1109.0236.21
 ; Syntax: RPZ
 ; Number of entries: 6770
 ;
@@ -2743,8 +2743,6 @@ axaxa.fun CNAME .
 *.axaxa.fun CNAME .
 ag.brianlee.fun CNAME .
 *.ag.brianlee.fun CNAME .
-cloudbenders.fun CNAME .
-*.cloudbenders.fun CNAME .
 dupatruwi22.fun CNAME .
 *.dupatruwi22.fun CNAME .
 dns.f4a.fun CNAME .
@@ -6721,6 +6719,8 @@ pm9352-bd.xyz CNAME .
 *.pm9352-bd.xyz CNAME .
 adguard.pmoebi.xyz CNAME .
 *.adguard.pmoebi.xyz CNAME .
+dns.propheci.xyz CNAME .
+*.dns.propheci.xyz CNAME .
 azure.razor1911.xyz CNAME .
 *.azure.razor1911.xyz CNAME .
 dns.sainternet.xyz CNAME .
