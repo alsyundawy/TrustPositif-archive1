@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762569540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762641600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Nov 2025 02:39 UTC
-; Version: 2025.1108.0239.35
+; Last modified: 08 Nov 2025 22:40 UTC
+; Version: 2025.1108.2240.55
 ; Syntax: RPZ
-; Number of entries: 6752
+; Number of entries: 6770
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -431,6 +431,8 @@ dns.krol.cloud CNAME .
 *.dns.krol.cloud CNAME .
 dns.lilith.cloud CNAME .
 *.dns.lilith.cloud CNAME .
+adguard.londonwebnerd.cloud CNAME .
+*.adguard.londonwebnerd.cloud CNAME .
 doh.nexen.cloud CNAME .
 *.doh.nexen.cloud CNAME .
 regiopolis.cloud CNAME .
@@ -1431,6 +1433,8 @@ httpdnsmultiapivip.meituan.com CNAME .
 *.httpdnsmultiapivip.meituan.com CNAME .
 httpdnsvip.meituan.com CNAME .
 *.httpdnsvip.meituan.com CNAME .
+mendozasdelivery.com CNAME .
+*.mendozasdelivery.com CNAME .
 ss.microbaidu.com CNAME .
 *.ss.microbaidu.com CNAME .
 mikewaddick.com CNAME .
@@ -1601,6 +1605,8 @@ dns.pacificmonster.com CNAME .
 *.dns.pacificmonster.com CNAME .
 adguard.pancybertronics.com CNAME .
 *.adguard.pancybertronics.com CNAME .
+pashagame456.com CNAME .
+*.pashagame456.com CNAME .
 dns.paxavemedia.com CNAME .
 *.dns.paxavemedia.com CNAME .
 dns.periactes.com CNAME .
@@ -3055,6 +3061,10 @@ dns.api.staging.globuscs.info CNAME .
 *.dns.api.staging.globuscs.info CNAME .
 dns.api.test.globuscs.info CNAME .
 *.dns.api.test.globuscs.info CNAME .
+doh.kekew.info CNAME .
+*.doh.kekew.info CNAME .
+doh3.kekew.info CNAME .
+*.doh3.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 lorc17-dns.komeho.info CNAME .
@@ -5521,6 +5531,8 @@ raj.pw CNAME .
 *.raj.pw CNAME .
 dns.vps.pw CNAME .
 *.dns.vps.pw CNAME .
+doh.kekew.racing CNAME .
+*.doh.kekew.racing CNAME .
 dns.labar.re CNAME .
 *.dns.labar.re CNAME .
 5g.o0o.re CNAME .
@@ -6671,14 +6683,20 @@ us.libost.xyz CNAME .
 *.us.libost.xyz CNAME .
 dns.lifeym.xyz CNAME .
 *.dns.lifeym.xyz CNAME .
+lukscasino-479-tr.xyz CNAME .
+*.lukscasino-479-tr.xyz CNAME .
 lukscasino-542-tr.xyz CNAME .
 *.lukscasino-542-tr.xyz CNAME .
+lukscasino-929-tr.xyz CNAME .
+*.lukscasino-929-tr.xyz CNAME .
 dns.maolaohei.xyz CNAME .
 *.dns.maolaohei.xyz CNAME .
 maqgie.xyz CNAME .
 *.maqgie.xyz CNAME .
 dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
 *.dns.mh4ckt3mh4ckt1c4s.xyz CNAME .
+mikezhang.xyz CNAME .
+*.mikezhang.xyz CNAME .
 mysolod.xyz CNAME .
 *.mysolod.xyz CNAME .
 nickcan.xyz CNAME .
