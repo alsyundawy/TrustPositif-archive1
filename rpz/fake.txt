@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762824360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762853160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Nov 2025 01:26 UTC
-; Version: 2025.1111.0126.52
+; Last modified: 11 Nov 2025 09:26 UTC
+; Version: 2025.1111.0926.51
 ; Syntax: RPZ
-; Number of entries: 28652
+; Number of entries: 28668
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -3170,6 +3170,8 @@ best-bike-outdoor.com CNAME .
 *.best-bike-outdoor.com CNAME .
 best-camping-deals.com CNAME .
 *.best-camping-deals.com CNAME .
+best-cheap-pharmacy.com CNAME .
+*.best-cheap-pharmacy.com CNAME .
 best-elekt.com CNAME .
 *.best-elekt.com CNAME .
 best-good-winery.com CNAME .
@@ -4244,8 +4246,6 @@ ceramicjapan-de.com CNAME .
 *.ceramicjapan-de.com CNAME .
 ceramictablewareshop.com CNAME .
 *.ceramictablewareshop.com CNAME .
-cerebrum-iq.com CNAME .
-*.cerebrum-iq.com CNAME .
 certainlyo.com CNAME .
 *.certainlyo.com CNAME .
 cescory.com CNAME .
@@ -5624,6 +5624,8 @@ dualsuns.com CNAME .
 *.dualsuns.com CNAME .
 duavital.com CNAME .
 *.duavital.com CNAME .
+dubaihoteluae.com CNAME .
+*.dubaihoteluae.com CNAME .
 duftefursie.com CNAME .
 *.duftefursie.com CNAME .
 duftspraysale.com CNAME .
@@ -6140,6 +6142,8 @@ estaviva.com CNAME .
 *.estaviva.com CNAME .
 estilobrasilofertas.com CNAME .
 *.estilobrasilofertas.com CNAME .
+etercitenal.com CNAME .
+*.etercitenal.com CNAME .
 eternity-diamond.com CNAME .
 *.eternity-diamond.com CNAME .
 ether-invest.com CNAME .
@@ -8642,6 +8646,8 @@ hybridfahrrader.com CNAME .
 *.hybridfahrrader.com CNAME .
 hygienecleanshop.com CNAME .
 *.hygienecleanshop.com CNAME .
+hyip.com CNAME .
+*.hyip.com CNAME .
 hype-hoodies.com CNAME .
 *.hype-hoodies.com CNAME .
 hyperstech.com CNAME .
@@ -8822,6 +8828,8 @@ inexpensivy.com CNAME .
 *.inexpensivy.com CNAME .
 inferright.com CNAME .
 *.inferright.com CNAME .
+inferutmati.com CNAME .
+*.inferutmati.com CNAME .
 infineink.com CNAME .
 *.infineink.com CNAME .
 infinitediamond.com CNAME .
@@ -8906,6 +8914,8 @@ intelilawllp.com CNAME .
 *.intelilawllp.com CNAME .
 intellisynex.com CNAME .
 *.intellisynex.com CNAME .
+intentionalk.com CNAME .
+*.intentionalk.com CNAME .
 inter-investissement-holding.com CNAME .
 *.inter-investissement-holding.com CNAME .
 interactionm.com CNAME .
@@ -13096,6 +13106,8 @@ proupwholesale.com CNAME .
 *.proupwholesale.com CNAME .
 provenxperts.com CNAME .
 *.provenxperts.com CNAME .
+providedes.com CNAME .
+*.providedes.com CNAME .
 provise24.com CNAME .
 *.provise24.com CNAME .
 proximitye.com CNAME .
@@ -13822,8 +13834,6 @@ saint-blanc.com CNAME .
 *.saint-blanc.com CNAME .
 sakaziq.com CNAME .
 *.sakaziq.com CNAME .
-sale-dress.com CNAME .
-*.sale-dress.com CNAME .
 sale-ersatzteile.com CNAME .
 *.sale-ersatzteile.com CNAME .
 sale-homedecor.com CNAME .
@@ -14680,6 +14690,8 @@ sparkgenesisai.com CNAME .
 *.sparkgenesisai.com CNAME .
 sparprime.com CNAME .
 *.sparprime.com CNAME .
+specializeg.com CNAME .
+*.specializeg.com CNAME .
 specialmdassortment.com CNAME .
 *.specialmdassortment.com CNAME .
 specialmenswear.com CNAME .
@@ -25312,8 +25324,12 @@ highlandshotels.net CNAME .
 *.highlandshotels.net CNAME .
 hilfsdienst.net CNAME .
 *.hilfsdienst.net CNAME .
+hotelinphuket.net CNAME .
+*.hotelinphuket.net CNAME .
 hotels-colorado.net CNAME .
 *.hotels-colorado.net CNAME .
+hotelsofnewyorkcity.net CNAME .
+*.hotelsofnewyorkcity.net CNAME .
 hqmed.net CNAME .
 *.hqmed.net CNAME .
 hunterbootsschweiz.net CNAME .
