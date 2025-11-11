@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762795620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762824360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Nov 2025 17:27 UTC
-; Version: 2025.1110.1727.14
+; Last modified: 11 Nov 2025 01:26 UTC
+; Version: 2025.1111.0126.52
 ; Syntax: RPZ
-; Number of entries: 28656
+; Number of entries: 28652
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -3814,8 +3814,6 @@ brennholzs.com CNAME .
 *.brennholzs.com CNAME .
 brennholzscholl.com CNAME .
 *.brennholzscholl.com CNAME .
-brennholzstore.com CNAME .
-*.brennholzstore.com CNAME .
 brennholzwittmann.com CNAME .
 *.brennholzwittmann.com CNAME .
 brennholzz.com CNAME .
@@ -24868,8 +24866,6 @@ dogiweb.webnode.it CNAME .
 *.dogiweb.webnode.it CNAME .
 replicauhren.kaufen CNAME .
 *.replicauhren.kaufen CNAME .
-s.kohler CNAME .
-*.s.kohler CNAME .
 digitalinfo.co.kr CNAME .
 *.digitalinfo.co.kr CNAME .
 beauticiantraining.lat CNAME .
