@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762939620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762968420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Nov 2025 09:27 UTC
-; Version: 2025.1112.0927.07
+; Last modified: 12 Nov 2025 17:27 UTC
+; Version: 2025.1112.1727.07
 ; Syntax: RPZ
 ; Number of entries: 28704
 ;
@@ -2992,8 +2992,6 @@ baumeistermodels.com CNAME .
 *.baumeistermodels.com CNAME .
 bauprofimaschinen.com CNAME .
 *.bauprofimaschinen.com CNAME .
-baur-best.com CNAME .
-*.baur-best.com CNAME .
 baurino.com CNAME .
 *.baurino.com CNAME .
 baushopping.com CNAME .
@@ -6858,6 +6856,8 @@ followslow.com CNAME .
 *.followslow.com CNAME .
 fondluck.com CNAME .
 *.fondluck.com CNAME .
+fondsavenue.com CNAME .
+*.fondsavenue.com CNAME .
 foodixs.com CNAME .
 *.foodixs.com CNAME .
 footjoy-suomi.com CNAME .
