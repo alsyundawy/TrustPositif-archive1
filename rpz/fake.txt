@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762882020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762896360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Nov 2025 17:27 UTC
-; Version: 2025.1111.1727.09
+; Last modified: 11 Nov 2025 21:26 UTC
+; Version: 2025.1111.2126.44
 ; Syntax: RPZ
-; Number of entries: 28690
+; Number of entries: 28694
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -3002,6 +3002,8 @@ baumeistermodels.com CNAME .
 *.baumeistermodels.com CNAME .
 bauprofimaschinen.com CNAME .
 *.bauprofimaschinen.com CNAME .
+baur-best.com CNAME .
+*.baur-best.com CNAME .
 baurino.com CNAME .
 *.baurino.com CNAME .
 baushopping.com CNAME .
@@ -4836,6 +4838,8 @@ cryptoassetscontrol.com CNAME .
 *.cryptoassetscontrol.com CNAME .
 cryptocash24.com CNAME .
 *.cryptocash24.com CNAME .
+cryptocurrencyexz.com CNAME .
+*.cryptocurrencyexz.com CNAME .
 cryptofundfx.com CNAME .
 *.cryptofundfx.com CNAME .
 cryptomonaies.com CNAME .
@@ -8996,6 +9000,8 @@ iovannhecimovic.com CNAME .
 *.iovannhecimovic.com CNAME .
 iowautotrading.com CNAME .
 *.iowautotrading.com CNAME .
+net.ipdwio.com CNAME .
+*.net.ipdwio.com CNAME .
 iprimmo.com CNAME .
 *.iprimmo.com CNAME .
 iq-fast.com CNAME .
@@ -9814,8 +9820,6 @@ de1.landurm.com CNAME .
 *.de1.landurm.com CNAME .
 landwirtschaftlicheegbr.com CNAME .
 *.landwirtschaftlicheegbr.com CNAME .
-landwirtschftlicheegbr.com CNAME .
-*.landwirtschftlicheegbr.com CNAME .
 lane-properties.com CNAME .
 *.lane-properties.com CNAME .
 langlebigwerkzeug.com CNAME .
@@ -15674,6 +15678,8 @@ thepetshopsonline.com CNAME .
 *.thepetshopsonline.com CNAME .
 thepickupstorehouse.com CNAME .
 *.thepickupstorehouse.com CNAME .
+theplayshopping.com CNAME .
+*.theplayshopping.com CNAME .
 thepocketknives.com CNAME .
 *.thepocketknives.com CNAME .
 thepocsport.com CNAME .
@@ -28056,8 +28062,6 @@ jacoobss.store CNAME .
 *.jacoobss.store CNAME .
 jedermarkt.store CNAME .
 *.jedermarkt.store CNAME .
-jedermart.store CNAME .
-*.jedermart.store CNAME .
 kaffeewelt.store CNAME .
 *.kaffeewelt.store CNAME .
 labububox.store CNAME .
