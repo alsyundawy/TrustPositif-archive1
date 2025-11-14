@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763098020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763112480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Nov 2025 05:27 UTC
-; Version: 2025.1114.0527.23
+; Last modified: 14 Nov 2025 09:28 UTC
+; Version: 2025.1114.0928.07
 ; Syntax: RPZ
-; Number of entries: 28708
+; Number of entries: 28716
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2156,6 +2156,8 @@ aluhsda.com CNAME .
 *.aluhsda.com CNAME .
 alvaxi.com CNAME .
 *.alvaxi.com CNAME .
+alvinegroup.com CNAME .
+*.alvinegroup.com CNAME .
 alzaccess.com CNAME .
 *.alzaccess.com CNAME .
 amagliecalcio.com CNAME .
@@ -3654,6 +3656,8 @@ boekerrabatt.com CNAME .
 *.boekerrabatt.com CNAME .
 boerty.com CNAME .
 *.boerty.com CNAME .
+bofblockchain.com CNAME .
+*.bofblockchain.com CNAME .
 bog-apotheke.com CNAME .
 *.bog-apotheke.com CNAME .
 boilsofas.com CNAME .
@@ -7414,6 +7418,8 @@ gesichtkorperbeauty.com CNAME .
 *.gesichtkorperbeauty.com CNAME .
 gesichtsreinigungnachtpflege.com CNAME .
 *.gesichtsreinigungnachtpflege.com CNAME .
+impact-am.gestion-espace.com CNAME .
+*.impact-am.gestion-espace.com CNAME .
 gestionpatrimoine-bsi.com CNAME .
 *.gestionpatrimoine-bsi.com CNAME .
 gesund-wachsen.com CNAME .
@@ -25940,6 +25946,8 @@ american-foods.org CNAME .
 *.american-foods.org CNAME .
 amf-cloudmail.org CNAME .
 *.amf-cloudmail.org CNAME .
+amffrance.org CNAME .
+*.amffrance.org CNAME .
 asset-ace.org CNAME .
 *.asset-ace.org CNAME .
 at-setrafimoney.org CNAME .
