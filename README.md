@@ -26,7 +26,7 @@
 ## Repository Telah Pindah ke Lokasi Baru! / Repository Moved to New Location!
 
 ### 📍 Lokasi Baru / New Location:
-**[https://github.com/alsyundawy/TrustPositif-To-RPZ-Binary](https://github.com/alsyundawy/TrustPositif)**
+**[https://github.com/alsyundawy/TrustPositif](https://github.com/alsyundawy/TrustPositif)**
 
 ---
 
