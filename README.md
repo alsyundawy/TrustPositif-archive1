@@ -18,6 +18,37 @@
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/alsyundawy/TrustPositif.svg?variant=adaptive)](https://starchart.cc/alsyundawy/TrustPositif)
 
+
+# Repository Ini Telah Dipindahkan / Moved
+
+---
+
+## Repository Telah Pindah ke Lokasi Baru! / Repository Moved to New Location!
+
+### 📍 Lokasi Baru / New Location:
+**[https://github.com/alsyundawy/TrustPositif-To-RPZ-Binary](https://github.com/alsyundawy/TrustPositif)**
+
+---
+
+### ⚠️ Perhatian / Attention
+
+Mohon perhatian, repository ini tidak lagi diperbarui di sini. Silakan kunjungi **[repository baru](https://github.com/alsyundawy/TrustPositif)** untuk mendapatkan versi terbaru dan informasi terkini.
+
+---
+
+### 📌 Attention
+
+Please be advised, this repository is no longer updated here. Please visit the **[new repository](https://github.com/alsyundawy/TrustPositif)** for the latest version and updates.
+
+---
+
+### 🔗 Link Cepat / Quick Links
+
+*   **[Repository Baru / New Repository](https://github.com/alsyundawy/TrustPositif)**
+*   **[Cara Instalasi / Installation Guide](https://github.com/alsyundawy/TrustPositif#readme)**
+
+---
+
 **Anda bebas untuk mengubah, mendistribusikan script ini untuk keperluan anda**
 
 **If you find this project helpful and would like to support it, please consider donating via https://www.paypal.me/alsyundawy. Thank you for your support!**
